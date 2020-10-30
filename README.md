@@ -17,7 +17,7 @@ Glaucia is currently Member & Contributor at Node.js Foundation and at React Com
 
 Outside of development, Glaucia enjoys learn new languages, love meeting different people and cultures, a movie buff and drummer!
 
-## Technologies & Tools
+## 💻 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,7 +34,7 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 ![DotNet](https://img.shields.io/badge/dotnet-net%23239120.svg?color=5C2D91&style=for-the-badge&logo=.net&logoColor=white)
 ![CSharp](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## GitHub Stats
+## :octocat: GitHub Stats
 
 <br>
 <p align = "center">
@@ -42,9 +42,7 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=glaucia86&hide=css,java,html&theme=tokyonight">
 </p>
 
-</br></br>
-
-## Latest Blog Posts & Videos
+## ✏️ Latest Blog Posts & Videos
 
 sjskajskjaksja
 
@@ -54,7 +52,7 @@ sjskajskjaksja
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glaucialemos/)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/glaucia.lemos.1029)
 
-## I do some Live Codings! So follow me also on...
+## 📺 I do some Live Codings! So follow me also on...
 
 [![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/l32759)
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/glaucia_lemos86)

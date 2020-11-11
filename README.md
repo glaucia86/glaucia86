@@ -35,19 +35,20 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 ![CSharp](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## GitHub Stats
-</br>
-<a href="https://github.com/glaucia86/glaucia86">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaucia86&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
+<br>
+<p align="left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=glaucia86&show_icons=true&theme=tokyonight&line_height=27">
+</p>
 <p align="right">
-<a href="https://github.com/glaucia86/glaucia86">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=glaucia86&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=glaucia86&hide=css,java,html&theme=tokyonight">
 </p>
 
+</br></br>
 
-## My Tecently Blog Posts & Videos
+## Latest Blog Posts & Videos
+
+sjskajskjaksja
 
 ## Let's Keep in Touch and Follow me 
 

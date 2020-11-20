@@ -1,3 +1,5 @@
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 [![Banner-Twitch-Glaucia-Lemos.png](https://i.postimg.cc/L8ZjLxZm/Banner-Twitch-Glaucia-Lemos.png)](https://postimg.cc/ZW49hFcQ)
 
 

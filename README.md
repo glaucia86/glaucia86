@@ -33,16 +33,17 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/dotnet-net%23239120.svg?color=5C2D91&style=for-the-badge&logo=.net&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" height="25"/>
 <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>
+
 </p>
 
 ## :octocat: GitHub Stats
 
-<br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=glaucia86&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=glaucia86&hide=css,java,html&theme=tokyonight">
@@ -50,7 +51,8 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📕 Latest Blog Posts & Videos
 
-*
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ## 📌 Let's Keep in Touch and Follow me 
@@ -58,6 +60,7 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/glaucia_lemos86)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glaucialemos/)
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/glaucia.lemos.1029)
+
 
 ## 📺 I do some Live Codings! So follow me also on...
 
@@ -67,3 +70,6 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 
 
+
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />

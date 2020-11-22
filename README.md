@@ -49,6 +49,10 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=glaucia86&hide=css,java,html&theme=tokyonight">
 </p>
 
+## 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 ## 📕 Latest Blog Posts & Videos
 
 <!-- BLOG-POST-LIST:START -->

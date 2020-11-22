@@ -56,6 +56,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 ## 📕 Latest Blog Posts & Videos
 
 <!-- BLOG-POST-LIST:START -->
+- [¡Cursos gratuitos de ARM Template - Microsoft Learn!](https://dev.to/glaucia86/cursos-gratuitos-de-arm-template-microsoft-learn-37mp)
+- [Cursos grátis de ARM Template - Microsoft Learn!](https://dev.to/glaucia86/cursos-gratis-de-arm-template-microsoft-learn-6ib)
+- [Curso Gratuito - Bootcamp Cloud Computing & Serverless!](https://dev.to/glaucia86/curso-gratuito-bootcamp-cloud-computing-serverless-2ihp)
+- [¡Aprenda .NET y C # con .NET Learn Challenge!](https://dev.to/glaucia86/aprenda-net-y-c-con-net-learn-challenge-1obk)
+- [Aprenda .NET e C# com .NET Learn Challenge!](https://dev.to/glaucia86/aprenda-net-e-c-com-net-learn-challenge-22oe)
 <!-- BLOG-POST-LIST:END -->
 
 

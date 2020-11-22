@@ -82,8 +82,4 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/glaucia_lemos86)
 
 
-
-
-
-
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />

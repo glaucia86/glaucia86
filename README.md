@@ -51,7 +51,6 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts & Videos

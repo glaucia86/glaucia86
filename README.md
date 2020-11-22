@@ -7,11 +7,14 @@
 <a href="https://dev.to/glaucia86"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/glaucia_lemos86"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/glaucialemos/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+
 </p>
 
 ## Bio - Hi, Developers! 👋
 
 Glaucia Lemos is Cloud Advocate in JavaScript/Node & TypeScript at Microsoft. She loves helping and making contributions to Open Source projects in **[GitHub](https://github.com/glaucia86)**. 
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 Glaucia is currently Member & Contributor at Node.js Foundation and at React Community making contributions to Nodejs.org and Reactjs.org translations into Portuguese. Glaucia also belongs in quite inclusive Communities such as WoMakersCode - an organization focused on helping, inspiring and empowering even more women in technology help them to gain a job opportunity. Currently, Glaucia lives in Rio de Janeiro, Brazil. And her greatest passion is sharing knowledge for all people!
 
@@ -58,7 +61,7 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 - [Live Coding CRUD Node.js + Vue.js + PostGreSQL - Dia 03](https://www.youtube.com/watch?v=ZP_1XOC6gnA)
 <!-- YOUTUBE:END -->
 
-## 📕 Latest Blog Posts & Videos
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [¡Cursos gratuitos de ARM Template - Microsoft Learn!](https://dev.to/glaucia86/cursos-gratuitos-de-arm-template-microsoft-learn-37mp)
@@ -80,6 +83,3 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 [![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/l32759)
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/glaucia_lemos86)
-
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />

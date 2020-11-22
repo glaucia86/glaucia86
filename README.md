@@ -16,7 +16,7 @@ Glaucia Lemos is Cloud Advocate in JavaScript/Node & TypeScript at Microsoft. Sh
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Glaucia is currently Member & Contributor at Node.js Foundation and at React Community making contributions to Nodejs.org and Reactjs.org translations into Portuguese. Glaucia also belongs in quite inclusive Communities such as WoMakersCode - an organization focused on helping, inspiring and empowering even more women in technology help them to gain a job opportunity. Currently, Glaucia lives in Rio de Janeiro, Brazil. And her greatest passion is sharing knowledge for all people!
+Glaucia is currently Member & Contributor at **[Node.js Foundation](https://www.linkedin.com/company/node.js-foundation/)** and at **[React Community](https://github.com/reactjs)** making contributions to Nodejs.org and Reactjs.org translations into Portuguese. Glaucia also belongs in quite inclusive Communities such as **[WoMakersCode](https://womakerscode.org/)** - an organization focused on helping, inspiring and empowering even more women in technology help them to gain a job opportunity. Currently, Glaucia lives in Rio de Janeiro, Brazil. And her greatest passion is sharing knowledge for all people!
 
 Outside of development, Glaucia enjoys learn new languages, love meeting different people and cultures, a movie buff and drummer!
 

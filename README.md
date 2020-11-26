@@ -52,11 +52,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Live Coding CRUD Node.js + Vue.js + PostGreSQL - Dia 08](https://www.youtube.com/watch?v=lUlXOWh3Rkk)
 - [Live Coding CRUD Node.js + Vue.js + PostGreSQL - Dia 07](https://www.youtube.com/watch?v=4cRI8kmIn6w)
 - [Live Coding CRUD Node.js + Vue.js + PostGreSQL - Dia 06](https://www.youtube.com/watch?v=3NxCKy2qtHI)
 - [Live Coding CRUD Node.js + Vue.js + PostGreSQL - Dia 05](https://www.youtube.com/watch?v=UysSATJ8wb0)
 - [Live Coding CRUD Node.js + Vue.js + PostGreSQL - Dia 04](https://www.youtube.com/watch?v=K-PIpLD8zvs)
+- [Live Coding Especial - Global Microsoft 365 Developer Bootcamp 2020 | Família @He4rtDevs](https://www.youtube.com/watch?v=O65NWuvc3Wc)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

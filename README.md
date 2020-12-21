@@ -52,11 +52,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Diário de um Trabalho Remoto na Microsoft em Tempos de Pandemia](https://www.youtube.com/watch?v=RyE5w9ek1aI)
 - [Chamada - Retrospectiva 2020 (Artigos/Tutoriais)](https://www.youtube.com/watch?v=G5j1Tb7XzXU)
 - [Migração do Back-End para Arquitetura Serverless &  Local Database PostGreSQL para Azure - Dia 01](https://www.youtube.com/watch?v=nVbU9BlF5hs)
 - [Live Coding CRUD Node.js + Vue.js + PostGreSQL - Dia 08](https://www.youtube.com/watch?v=lUlXOWh3Rkk)
 - [Live Coding CRUD Node.js + Vue.js + PostGreSQL - Dia 07](https://www.youtube.com/watch?v=4cRI8kmIn6w)
-- [Live Coding CRUD Node.js + Vue.js + PostGreSQL - Dia 06](https://www.youtube.com/watch?v=3NxCKy2qtHI)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

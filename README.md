@@ -52,11 +52,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 03](https://www.youtube.com/watch?v=6u4aM2eT-gg)
 - [Respondendo Perguntas breves sobre o meu trabalho aqui na Microsoft (Time de DevRel)](https://www.youtube.com/watch?v=tsKgiCaL55o)
 - [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 02](https://www.youtube.com/watch?v=Vr-UMoAv8pk)
 - [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 01](https://www.youtube.com/watch?v=JmUSx5wXU68)
 - [Diário de um Trabalho Remoto na Microsoft em Tempos de Pandemia](https://www.youtube.com/watch?v=RyE5w9ek1aI)
-- [Chamada - Retrospectiva 2020 (Artigos/Tutoriais)](https://www.youtube.com/watch?v=G5j1Tb7XzXU)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

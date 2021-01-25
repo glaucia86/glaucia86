@@ -62,11 +62,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vs Code Day - Primeiro evento Oficial do Visual Studio Code!](https://dev.to/glaucia86/vs-code-day-primeiro-evento-oficial-do-visual-studio-code-8mg)
 - [Guia Para Pessoas Desenvolvedoras Back-End 2021 - O que eu preciso saber?!](https://dev.to/glaucia86/guia-para-pessoas-desenvolvedoras-back-end-2021-o-que-eu-preciso-saber-10c6)
 - [¡Cursos gratuitos de ARM Template - Microsoft Learn!](https://dev.to/glaucia86/cursos-gratuitos-de-arm-template-microsoft-learn-37mp)
 - [Cursos grátis de ARM Template - Microsoft Learn!](https://dev.to/glaucia86/cursos-gratis-de-arm-template-microsoft-learn-6ib)
 - [Curso Gratuito - Bootcamp Cloud Computing & Serverless!](https://dev.to/glaucia86/curso-gratuito-bootcamp-cloud-computing-serverless-2ihp)
-- [¡Aprenda .NET y C # con .NET Learn Challenge!](https://dev.to/glaucia86/aprenda-net-y-c-con-net-learn-challenge-1obk)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Let's Keep in Touch and Follow me 

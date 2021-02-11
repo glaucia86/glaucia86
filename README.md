@@ -52,11 +52,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 06](https://www.youtube.com/watch?v=_-3DWpuXXvU)
 - [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 05](https://www.youtube.com/watch?v=-nRSKeT9OkE)
 - [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 04](https://www.youtube.com/watch?v=VGgseqbWEt8)
 - [Migração do Back-End para Arquitetura Serverless &  Local Database PostGreSQL para CosmosDB - Dia 02](https://www.youtube.com/watch?v=lUH5gzKq1YA)
 - [Migração do Back-End para Arquitetura Serverless & Azure CosmosDB - Dia 02](https://www.youtube.com/watch?v=sNGfe5LohZQ)
-- [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 03](https://www.youtube.com/watch?v=6u4aM2eT-gg)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

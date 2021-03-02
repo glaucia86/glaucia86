@@ -52,11 +52,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Temporada de Live Coding 2021 & Novidades!](https://www.youtube.com/watch?v=6TED799e0_g)
-- [Microsoft Ignite 2020 - The Cloud is More than Just that Thing in the Sky (Spanish) | Glaucia Lemos](https://www.youtube.com/watch?v=PekFldxUkVw)
-- [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 07](https://www.youtube.com/watch?v=OckHsZPIRrQ)
-- [TypeScript - Zero to Hero | O que é TypeScript? #01](https://www.youtube.com/watch?v=u7K1sdnCv5Y)
-- [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 06](https://www.youtube.com/watch?v=_-3DWpuXXvU)
+- [TypeScript - Zero to Hero | Entendendo o arquivo tsconfig.json #04](https://www.youtube.com/watch?v=iYXzT08sX5Y)
+- [TypeScript - Zero to Hero | Preparando o Ambiente de Desenvolvimento para o TypeScript #03](https://www.youtube.com/watch?v=J-sMh3DF10U)
+- [TypeScript - Zero to Hero | Demo: Primeiro Programa em TypeScript – Hello World #05](https://www.youtube.com/watch?v=iTCRgdEyq0k)
+- [TypeScript - Zero to Hero | E por que usar o TypeScript? E, próximos passos! #06](https://www.youtube.com/watch?v=VIYnya9DUxg)
+- [TypeScript - Zero to Hero | Conhecendo o Playground do TypeScript #02](https://www.youtube.com/watch?v=_pDsn0gE6ys)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

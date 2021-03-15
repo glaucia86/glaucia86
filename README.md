@@ -52,11 +52,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 08](https://www.youtube.com/watch?v=6fUcm4aSEjM)
-- [TypeScript - Zero to Hero | Entendendo o arquivo tsconfig.json #04](https://www.youtube.com/watch?v=iYXzT08sX5Y)
-- [TypeScript - Zero to Hero | Preparando o Ambiente de Desenvolvimento para o TypeScript #03](https://www.youtube.com/watch?v=J-sMh3DF10U)
-- [TypeScript - Zero to Hero | Demo: Primeiro Programa em TypeScript – Hello World #05](https://www.youtube.com/watch?v=iTCRgdEyq0k)
-- [TypeScript - Zero to Hero | E por que usar o TypeScript? E, próximos passos! #06](https://www.youtube.com/watch?v=VIYnya9DUxg)
+- [TypeScript - Zero to Hero | Demo - Boolean #09](https://www.youtube.com/watch?v=y6dgaE-cPhc)
+- [TypeScript - Zero to Hero | Demo: Number & Bigint #12](https://www.youtube.com/watch?v=498uRBCoGf8)
+- [TypeScript - Zero to Hero | Type Annotation #07](https://www.youtube.com/watch?v=ocjS96i27zk)
+- [TypeScript - Zero to Hero | Tipo Number & Bigint #11](https://www.youtube.com/watch?v=SsQqZPdPJl4)
+- [TypeScript - Zero to Hero | Demo - Boolean #10](https://www.youtube.com/watch?v=SkXMjanTPbQ)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

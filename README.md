@@ -64,11 +64,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Módulo 02 (Vídeos 13 à 18.1) - TypeScript Zero to Hero](https://dev.to/glaucia86/modulo-02-videos-13-a-18-1-typescript-zero-to-hero-5565)
 - [Módulo 02 (Vídeos 07 à 12) - TypeScript Zero to Hero](https://dev.to/glaucia86/modulo-02-videos-07-a-12-typescript-zero-to-hero-44oa)
 - [Tutorial - JWT + NodeJs + MongoDB + Vue (Back-End - Parte I)](https://dev.to/glaucia86/tutorial-jwt-nodejs-mongodb-vue-back-end-parte-i-12np)
 - [Lançamento: Módulo 01 - TypeScript Zero to Hero](https://dev.to/glaucia86/lancamento-modulo-01-typescript-zero-to-hero-40n4)
 - [Developing a CRUD Node.js Application with PostgreSQL](https://dev.to/glaucia86/developing-a-crud-node-js-application-with-postgresql-4c9o)
-- [Vs Code Day - Primeiro evento Oficial do Visual Studio Code!](https://dev.to/glaucia86/vs-code-day-primeiro-evento-oficial-do-visual-studio-code-8mg)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Let's Keep in Touch and Follow me 

@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Arquivo Confidencial com Gabriela Mayer](https://www.youtube.com/watch?v=GD_pJsPWw-A)
+- [TypeScript - Zero to Hero | Tipo Tuple (Tupla) #17](https://www.youtube.com/watch?v=APecrHh9K7E)
 - [TypeScript - Zero to Hero | Tipo Tuple (Tupla) #18.1 - Parte 02](https://www.youtube.com/watch?v=0_61ggJ_yzY)
 - [TypeScript - Zero to Hero | Tipo: String #13](https://www.youtube.com/watch?v=0LpB1I8YPnA)
 - [TypeScript - Zero to Hero | Tipo Tuple (Tupla) #18 - Parte 01](https://www.youtube.com/watch?v=Hz1mB0YwDWU)
-- [TypeScript - Zero to Hero | Tipo Array #15](https://www.youtube.com/watch?v=IzEpibKEtg4)
-- [TypeScript - Zero to Hero | Demo - Tipo String #14](https://www.youtube.com/watch?v=Le9jY9AdWbI)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

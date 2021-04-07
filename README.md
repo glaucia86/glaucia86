@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Como ser um(a) Dev JavaScript de Sucesso? feat. Gabi Mayer | CURSOS GRATUITOS](https://www.youtube.com/watch?v=zaKqpgliqps)
-- [Vídeo - Depoimentos Amigos e Familiares - Gabriela Mayer](https://www.youtube.com/watch?v=-et4GlkbhqM)
-- [TypeScript - Zero to Hero | Tipo - Boolean #09](https://www.youtube.com/watch?v=y6dgaE-cPhc)
-- [TypeScript - Zero to Hero | Demo: Number & Bigint #12](https://www.youtube.com/watch?v=498uRBCoGf8)
-- [TypeScript - Zero to Hero | Type Annotation #07](https://www.youtube.com/watch?v=ocjS96i27zk)
+- [TypeScript - Zero to Hero | Tipo Tuple (Tupla) #18.1 - Parte 02](https://www.youtube.com/watch?v=0_61ggJ_yzY)
+- [TypeScript - Zero to Hero | Tipo: String #13](https://www.youtube.com/watch?v=0LpB1I8YPnA)
+- [TypeScript - Zero to Hero | Tipo Tuple (Tupla) #18 - Parte 01](https://www.youtube.com/watch?v=Hz1mB0YwDWU)
+- [TypeScript - Zero to Hero | Tipo Array #15](https://www.youtube.com/watch?v=IzEpibKEtg4)
+- [TypeScript - Zero to Hero | Demo - Tipo String #14](https://www.youtube.com/watch?v=Le9jY9AdWbI)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

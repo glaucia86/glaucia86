@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Cloud Computing & Serverless Módulo 01 - Quais são as vantagens do PaaS? | Video 14](https://www.youtube.com/watch?v=Q1pnZCaujXc)
-- [Cloud Computing & Serverless Módulo 01 - Quais são os Cenários de Negócio com PaaS? | Video 13](https://www.youtube.com/watch?v=IQUgvRqJJ68)
-- [Cloud Computing & Serverless Módulo 01 - O que é PaaS (Plataforma como Serviço)? | Video 12](https://www.youtube.com/watch?v=CuwAE76OpAM)
-- [Cloud Computing & Serverless Módulo 01 - Quais são as vantagens do IaaS? | Video 11](https://www.youtube.com/watch?v=Gy-yg0MTwH8)
-- [Cloud Computing & Serverless Módulo 01 - Quais são os Cenários de Negócios no IaaS? | Video 10](https://www.youtube.com/watch?v=N6Bs_NDdPag)
+- [Cloud Computing & Serverless Módulo 01 - Quais são os Cenários Comuns do serviço do SaaS? | Video 20](https://www.youtube.com/watch?v=5G0uN72TVNU)
+- [Cloud Computing & Serverless Módulo 01 - Quais são os Cenários Comuns do serviço do SaaS? | Video 19](https://www.youtube.com/watch?v=L6n-WT9dQk0)
+- [Cloud Computing & Serverless Módulo 01 - O que é SaaS? | Video 18](https://www.youtube.com/watch?v=fTnUvBPHh8g)
+- [Cloud Computing & Serverless Módulo 01 - Padrões da Computação sem Servidor | Video 17](https://www.youtube.com/watch?v=Aa6ghT2A6bY)
+- [Cloud Computing & Serverless Módulo 01 - Quais os benefícios da Computação sem Servidor? | Video 16](https://www.youtube.com/watch?v=yzu4uVu4Nu0)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

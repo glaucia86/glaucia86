@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Cloud Computing & Serverless [Módulo 01] - O que é Computação em Nuvem | Video 02](https://www.youtube.com/watch?v=RmMu8Ky-dxw)
+- [Cloud Computing & Serverless | [Módulo 01] Overview: Video 01](https://www.youtube.com/watch?v=3LvmXfg-1TM)
 - [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 09](https://www.youtube.com/watch?v=PH-kSpoEpYI)
 - [Arquivo Confidencial com Gabriela Mayer](https://www.youtube.com/watch?v=GD_pJsPWw-A)
 - [TypeScript - Zero to Hero | Tipo Tuple (Tupla) #17](https://www.youtube.com/watch?v=APecrHh9K7E)
-- [TypeScript - Zero to Hero | Tipo Tuple (Tupla) #18.1 - Parte 02](https://www.youtube.com/watch?v=0_61ggJ_yzY)
-- [TypeScript - Zero to Hero | Tipo: String #13](https://www.youtube.com/watch?v=0LpB1I8YPnA)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Cloud Computing & Serverless [Módulo 01] - O que é Computação em Nuvem | Video 02](https://www.youtube.com/watch?v=RmMu8Ky-dxw)
-- [Cloud Computing & Serverless | [Módulo 01] Overview: Video 01](https://www.youtube.com/watch?v=3LvmXfg-1TM)
-- [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 09](https://www.youtube.com/watch?v=PH-kSpoEpYI)
-- [Arquivo Confidencial com Gabriela Mayer](https://www.youtube.com/watch?v=GD_pJsPWw-A)
-- [TypeScript - Zero to Hero | Tipo Tuple (Tupla) #17](https://www.youtube.com/watch?v=APecrHh9K7E)
+- [Cloud Computing & Serverless Módulo 01 - O que é Nuvem Híbrida? | Video 07](https://www.youtube.com/watch?v=zieoHtu6IwQ)
+- [Cloud Computing & Serverless Módulo 01 - O que é Nuvem Pública? | Video 06](https://www.youtube.com/watch?v=kWNyRjEXETQ)
+- [Cloud Computing & Serverless Módulo 01 - O que é Nuvem Privada? | Video 05](https://www.youtube.com/watch?v=cMjUS2ouQxs)
+- [Cloud Computing & Serverless Módulo 01 - Tipos de Computação em Nuvem | Video 04](https://www.youtube.com/watch?v=oPNrKdG_pQY)
+- [Cloud Computing & Serverless Módulo 01 - Quais os benefícios da Computação em Nuvem? | Video 03](https://www.youtube.com/watch?v=-EvV2k8XWMk)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

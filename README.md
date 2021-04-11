@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Cloud Computing & Serverless Módulo 01 - Quais são os Cenários de Negócios no IaaS? | Video 10](https://www.youtube.com/watch?v=N6Bs_NDdPag)
+- [Cloud Computing & Serverless Módulo 01 - O que é IaaS? | Video 09](https://www.youtube.com/watch?v=4huqXUCK4SE)
+- [Cloud Computing & Serverless Módulo 01 - Tipos de Serviços de Computação em Nuvem | Video 08](https://www.youtube.com/watch?v=IlLLeLvhV3k)
 - [Cloud Computing & Serverless Módulo 01 - O que é Nuvem Híbrida? | Video 07](https://www.youtube.com/watch?v=zieoHtu6IwQ)
 - [Cloud Computing & Serverless Módulo 01 - O que é Nuvem Pública? | Video 06](https://www.youtube.com/watch?v=kWNyRjEXETQ)
-- [Cloud Computing & Serverless Módulo 01 - O que é Nuvem Privada? | Video 05](https://www.youtube.com/watch?v=cMjUS2ouQxs)
-- [Cloud Computing & Serverless Módulo 01 - Tipos de Computação em Nuvem | Video 04](https://www.youtube.com/watch?v=oPNrKdG_pQY)
-- [Cloud Computing & Serverless Módulo 01 - Quais os benefícios da Computação em Nuvem? | Video 03](https://www.youtube.com/watch?v=-EvV2k8XWMk)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

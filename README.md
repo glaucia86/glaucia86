@@ -54,7 +54,7 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Demo Playwright Tweeting!](https://www.youtube.com/watch?v=m8H0rsmZ7T4)
+- [Playwright Demo Tweeting!](https://www.youtube.com/watch?v=m8H0rsmZ7T4)
 - [Cloud Computing & Serverless - Resumo e Recursos Importantes - Módulo 1 | Video 22](https://www.youtube.com/watch?v=PUci_SHUtlA)
 - [Cloud Computing & Serverless Módulo 01 - Quais são as vantagens do serviço do SaaS? | Video 21](https://www.youtube.com/watch?v=38Swj6abGzY)
 - [Cloud Computing & Serverless Módulo 01 - Quais são as vantagens do serviço do SaaS? | Video 20](https://www.youtube.com/watch?v=5G0uN72TVNU)

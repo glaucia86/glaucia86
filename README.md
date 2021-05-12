@@ -64,11 +64,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Publicando Aplicações Estáticas com Static Web Apps & Azure DevOps!](https://dev.to/glaucia86/publicando-aplicacoes-estaticas-com-static-web-apps-azure-devops-4c1o)
+- [Publicación de Aplicaciones Estáticas con Azure Static Web Apps y Azure DevOps.](https://dev.to/glaucia86/publicacion-de-aplicaciones-estaticas-con-azure-static-web-apps-y-azure-devops-5c63)
 - [Módulo 02 (Vídeos 13 à 18.1) - TypeScript Zero to Hero](https://dev.to/glaucia86/modulo-02-videos-13-a-18-1-typescript-zero-to-hero-5565)
 - [Módulo 02 (Vídeos 07 à 12) - TypeScript Zero to Hero](https://dev.to/glaucia86/modulo-02-videos-07-a-12-typescript-zero-to-hero-44oa)
 - [Tutorial - JWT + NodeJs + MongoDB + Vue (Back-End - Parte I)](https://dev.to/glaucia86/tutorial-jwt-nodejs-mongodb-vue-back-end-parte-i-12np)
-- [Lançamento: Módulo 01 - TypeScript Zero to Hero](https://dev.to/glaucia86/lancamento-modulo-01-typescript-zero-to-hero-40n4)
-- [Developing a CRUD Node.js Application with PostgreSQL](https://dev.to/glaucia86/developing-a-crud-node-js-application-with-postgresql-4c9o)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Let's Keep in Touch and Follow me 

@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🔥Aprenda a Fazer Debug de Aplicações API's RESTful em Node.js no VSCode!🔥](https://www.youtube.com/watch?v=Lb20EoDja50)
 - [Publicando Aplicações Estáticas com Static Web Apps & Azure DevOps!](https://www.youtube.com/watch?v=3pnIBJWoRjM)
 - [Playwright Demo Tweeting!](https://www.youtube.com/watch?v=m8H0rsmZ7T4)
 - [Cloud Computing & Serverless - Resumo e Recursos Importantes - Módulo 1 | Video 22](https://www.youtube.com/watch?v=PUci_SHUtlA)
 - [Cloud Computing & Serverless Módulo 01 - Quais são as vantagens do serviço do SaaS? | Video 21](https://www.youtube.com/watch?v=38Swj6abGzY)
-- [Cloud Computing & Serverless Módulo 01 - Quais são as vantagens do serviço do SaaS? | Video 20](https://www.youtube.com/watch?v=5G0uN72TVNU)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

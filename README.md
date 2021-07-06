@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [TypeScript - Zero to Hero | Tipo Enum #19](https://www.youtube.com/watch?v=oBlnDsKloAY)
+- [TypeScript - Zero to Hero | Demo - Tipo Enum #20](https://www.youtube.com/watch?v=aU5rKsHyxHk)
 - [Testing OBS](https://www.youtube.com/watch?v=RAHT5vpR9hA)
 - [🔥Aprenda a Fazer Debug de Aplicações API's RESTful em Node.js no VSCode!🔥](https://www.youtube.com/watch?v=Lb20EoDja50)
 - [Publicando Aplicações Estáticas com Static Web Apps & Azure DevOps!](https://www.youtube.com/watch?v=3pnIBJWoRjM)
-- [Playwright Demo Tweeting!](https://www.youtube.com/watch?v=m8H0rsmZ7T4)
-- [Cloud Computing & Serverless - Resumo e Recursos Importantes - Módulo 1 | Video 22](https://www.youtube.com/watch?v=PUci_SHUtlA)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

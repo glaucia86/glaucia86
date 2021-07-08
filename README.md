@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Demo: Comentários | Série para Iniciantes em JavaScript #06](https://www.youtube.com/watch?v=1RJbhJuxCNc)
-- [Comentários | Série para Iniciantes em JavaScript #05](https://www.youtube.com/watch?v=CPPACskCnRo)
-- [Criando a sua Primeira Aplicação em JavaScript | Série para Iniciantes em JavaScript #04](https://www.youtube.com/watch?v=e5cEpHibGdA)
-- [Configurando sua caixa de ferramentas | Série para Iniciantes em JavaScript #03](https://www.youtube.com/watch?v=bynF1E0Hq98)
-- [Executando JavaScript: no browser ou no servidor? | Série para Iniciantes em JavaScript #02](https://www.youtube.com/watch?v=Tuwo8OeDsz0)
+- [Demo: Usando Template Literals para formatar Strings | Série para Iniciantes em JavaScript #12](https://www.youtube.com/watch?v=-CQxhCCKhKo)
+- [Usando Template Literals para formatar Strings | Série para Iniciantes em JavaScript #11](https://www.youtube.com/watch?v=T_e6pdTaOX8)
+- [Demo: Trabalhando com Strings | Série para Iniciantes em JavaScript #10](https://www.youtube.com/watch?v=geIMjG60pvw)
+- [Trabalhando com Strings | Série para Iniciantes em JavaScript #09](https://www.youtube.com/watch?v=L1Iq19bNN5U)
+- [Demo: Declarando Variáveis | Série para Iniciantes em JavaScript #08](https://www.youtube.com/watch?v=PzylgoSZIfI)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

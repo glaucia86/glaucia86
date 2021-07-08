@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Executando JavaScript:  no browser ou no servidor? | Série para Iniciantes em JavaScript #02](https://www.youtube.com/watch?v=Tuwo8OeDsz0)
+- [O que é JavaScript? | Série para Iniciantes em JavaScript #01](https://www.youtube.com/watch?v=SXBNpzjusgY)
 - [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 10](https://www.youtube.com/watch?v=oLXCKIvOPK4)
 - [TypeScript - Zero to Hero | Tipo Enum #19](https://www.youtube.com/watch?v=oBlnDsKloAY)
 - [TypeScript - Zero to Hero | Demo - Tipo Enum #20](https://www.youtube.com/watch?v=aU5rKsHyxHk)
-- [Testing OBS](https://www.youtube.com/watch?v=RAHT5vpR9hA)
-- [🔥Aprenda a Fazer Debug de Aplicações API's RESTful em Node.js no VSCode!🔥](https://www.youtube.com/watch?v=Lb20EoDja50)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

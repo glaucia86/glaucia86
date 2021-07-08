@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Demo: Tipos de Dados em JavaScript | Série para Iniciantes em JavaScript #14](https://www.youtube.com/watch?v=qJgURXHrPH0)
+- [Tipos de Dados em JavaScript | Série para Iniciantes em JavaScript #13](https://www.youtube.com/watch?v=ylaZV-UKTe4)
 - [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 10](https://www.youtube.com/watch?v=oLXCKIvOPK4)
 - [Demo: Usando Template Literals para formatar Strings | Série para Iniciantes em JavaScript #12](https://www.youtube.com/watch?v=-CQxhCCKhKo)
 - [Usando Template Literals para formatar Strings | Série para Iniciantes em JavaScript #11](https://www.youtube.com/watch?v=T_e6pdTaOX8)
-- [Demo: Trabalhando com Strings | Série para Iniciantes em JavaScript #10](https://www.youtube.com/watch?v=geIMjG60pvw)
-- [Trabalhando com Strings | Série para Iniciantes em JavaScript #09](https://www.youtube.com/watch?v=L1Iq19bNN5U)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

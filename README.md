@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Demo: Tratamento de Erros com Try/Catch/Finally | Série para Iniciantes em JavaScript #20](https://www.youtube.com/watch?v=ExgUZNqnAPA)
+- [Tratamento de Erros com Try/Catch/Finally | Série para Iniciantes em JavaScript #19](https://www.youtube.com/watch?v=iFXMmBexfN0)
 - [Demo: Convertendo strings para números | Série para Iniciantes em JavaScript #18](https://www.youtube.com/watch?v=XhzaY_TCW1w)
 - [Convertendo strings para números | Série para Iniciantes em JavaScript #17](https://www.youtube.com/watch?v=tfzXDn1EsgU)
 - [Demo: Matemática em JavaScript | Série para Iniciantes em JavaScript #16](https://www.youtube.com/watch?v=HTtGTBxuCE8)
-- [Matemática em JavaScript | Série para Iniciantes em JavaScript #15](https://www.youtube.com/watch?v=yyhc8Ub3WzU)
-- [Demo: Tipos de Dados em JavaScript | Série para Iniciantes em JavaScript #14](https://www.youtube.com/watch?v=qJgURXHrPH0)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

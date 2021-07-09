@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Demo: Lógica booleana com instruções if | Série para Iniciantes em JavaScript #24](https://www.youtube.com/watch?v=eRKucfCP0_Q)
+- [Lógica booleana com instruções if | Série para Iniciantes em JavaScript #23](https://www.youtube.com/watch?v=jqxfynLcNIw)
+- [Demo: Datas | Série para Iniciantes em JavaScript #22](https://www.youtube.com/watch?v=XRSyajanRLw)
+- [Datas | Série para Iniciantes em JavaScript #21](https://www.youtube.com/watch?v=2Sknk70N4HI)
 - [Demo: Tratamento de Erros com Try/Catch/Finally | Série para Iniciantes em JavaScript #20](https://www.youtube.com/watch?v=ExgUZNqnAPA)
-- [Tratamento de Erros com Try/Catch/Finally | Série para Iniciantes em JavaScript #19](https://www.youtube.com/watch?v=iFXMmBexfN0)
-- [Demo: Convertendo strings para números | Série para Iniciantes em JavaScript #18](https://www.youtube.com/watch?v=XhzaY_TCW1w)
-- [Convertendo strings para números | Série para Iniciantes em JavaScript #17](https://www.youtube.com/watch?v=tfzXDn1EsgU)
-- [Demo: Matemática em JavaScript | Série para Iniciantes em JavaScript #16](https://www.youtube.com/watch?v=HTtGTBxuCE8)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

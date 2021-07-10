@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [JavaScript Object Notation (JSON) | Série para Iniciantes em JavaScript #39](https://www.youtube.com/watch?v=ofwXIR_ItxY)
+- [Demo: JavaScript Object Notation (JSON) | Série para Iniciantes em JavaScript #40](https://www.youtube.com/watch?v=BSnsfIzFwOI)
+- [Demo: Arrow Functions e Funções Anônimas | Série para Iniciantes em JavaScript #38](https://www.youtube.com/watch?v=NtoaRRuwj3U)
+- [Arrow Functions e Funções Anônimas | Série para Iniciantes em JavaScript #37](https://www.youtube.com/watch?v=r3i-FlzU6DA)
 - [Funções | Série para Iniciantes em JavaScript #35](https://www.youtube.com/watch?v=aAfSVldL6Vk)
-- [Demo: Funções | Série para Iniciantes em JavaScript #36](https://www.youtube.com/watch?v=cS28BFVhgnI)
-- [Loops (Laços) | Série para Iniciantes em JavaScript #33](https://www.youtube.com/watch?v=J2X-olc3Z6Y)
-- [Demo: Loops (Laços) | Série para Iniciantes em JavaScript #34](https://www.youtube.com/watch?v=BRjbyBaF8ko)
-- [Métodos de Arrays | Série para Iniciantes em JavaScript #31](https://www.youtube.com/watch?v=Q-mHz5KxLG4)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

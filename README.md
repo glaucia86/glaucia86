@@ -55,7 +55,7 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Funções | Série para Iniciantes em JavaScript #35](https://www.youtube.com/watch?v=aAfSVldL6Vk)
-- [Demo: Funções | Série para Iniciantes em JavaScript #35](https://www.youtube.com/watch?v=cS28BFVhgnI)
+- [Demo: Funções | Série para Iniciantes em JavaScript #36](https://www.youtube.com/watch?v=cS28BFVhgnI)
 - [Loops (Laços) | Série para Iniciantes em JavaScript #33](https://www.youtube.com/watch?v=J2X-olc3Z6Y)
 - [Demo: Loops (Laços) | Série para Iniciantes em JavaScript #34](https://www.youtube.com/watch?v=BRjbyBaF8ko)
 - [Métodos de Arrays | Série para Iniciantes em JavaScript #31](https://www.youtube.com/watch?v=Q-mHz5KxLG4)

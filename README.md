@@ -54,7 +54,7 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Gerenciamento de Pacotes (Packages) | Série para Iniciantes em JavaScript #28](https://www.youtube.com/watch?v=DZh3P2B4U28)
+- [Gerenciamento de Pacotes (Packages) | Série para Iniciantes em JavaScript #47](https://www.youtube.com/watch?v=DZh3P2B4U28)
 - [Demo: Gerenciamento de Pacotes (Packages) | Série para Iniciantes em JavaScript #48](https://www.youtube.com/watch?v=AbRgNqJbJMs)
 - [Gerenciando Promises com async/await | Série para Iniciantes em JavaScript #45](https://www.youtube.com/watch?v=zdpfyYL5OZ4)
 - [Demo: Gerenciando Promises com async/await | Série para Iniciantes em JavaScript #46](https://www.youtube.com/watch?v=p5BSkIopY8s)

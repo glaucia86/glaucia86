@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Gerenciamento de Pacotes (Packages) | Série para Iniciantes em JavaScript #47](https://www.youtube.com/watch?v=DZh3P2B4U28)
+- [Demo: JavaScript Object Notation (JSON) | Série para Iniciantes em JavaScript #41](https://www.youtube.com/watch?v=BSnsfIzFwOI)
+- [Demo: Loops (Laços) | Série para Iniciantes em JavaScript #34](https://www.youtube.com/watch?v=BRjbyBaF8ko)
 - [Demo: Gerenciamento de Pacotes (Packages) | Série para Iniciantes em JavaScript #48](https://www.youtube.com/watch?v=AbRgNqJbJMs)
-- [Gerenciando Promises com async/await | Série para Iniciantes em JavaScript #45](https://www.youtube.com/watch?v=zdpfyYL5OZ4)
-- [Demo: Gerenciando Promises com async/await | Série para Iniciantes em JavaScript #46](https://www.youtube.com/watch?v=p5BSkIopY8s)
-- [Promises para operações de longa duração | Série para Iniciantes em JavaScript #43](https://www.youtube.com/watch?v=ai5G5gBPEWo)
+- [Demo: Tratamento de Erros com Try/Catch/Finally | Série para Iniciantes em JavaScript #20](https://www.youtube.com/watch?v=ExgUZNqnAPA)
+- [Comentários | Série para Iniciantes em JavaScript #05](https://www.youtube.com/watch?v=CPPACskCnRo)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

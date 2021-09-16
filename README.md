@@ -55,10 +55,10 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [TypeScript - Zero to Hero | Tipo Null & Undefined#27](https://www.youtube.com/watch?v=vyOidIn_YfQ)
+- [TypeScript - Zero to Hero | Demo - Tipo Null & Undefined#28](https://www.youtube.com/watch?v=3Cx3q9aOf_I)
 - [TypeScript - Zero to Hero | Tipo Void #25](https://www.youtube.com/watch?v=yLraF6_-85U)
 - [TypeScript - Zero to Hero | Demo - Tipo Void #26](https://www.youtube.com/watch?v=Aguo_gIIh7o)
 - [TypeScript - Zero to Hero | Demo - Tipo Any #22](https://www.youtube.com/watch?v=I0wYYGwiDNY)
-- [TypeScript - Zero to Hero | Demo - Tipo Unknown #24](https://www.youtube.com/watch?v=6XFn4Gny8WU)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

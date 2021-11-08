@@ -64,11 +64,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Criando Aplicações com Astro Build & Azure Static Web CLI!](https://dev.to/glaucia86/criando-aplicacoes-com-astro-build-azure-static-web-cli-39nb)
-- [Publicando Aplicações Estáticas com Static Web Apps & Azure DevOps!](https://dev.to/glaucia86/publicando-aplicacoes-estaticas-com-static-web-apps-azure-devops-4c1o)
+- [Criando Aplicações com Astro Build &amp; Azure Static Web CLI!](https://dev.to/glaucia86/criando-aplicacoes-com-astro-build-azure-static-web-cli-39nb)
+- [Publicando Aplicações Estáticas com Static Web Apps &amp; Azure DevOps!](https://dev.to/glaucia86/publicando-aplicacoes-estaticas-com-static-web-apps-azure-devops-4c1o)
 - [Publicación de Aplicaciones Estáticas con Azure Static Web Apps y Azure DevOps.](https://dev.to/glaucia86/publicacion-de-aplicaciones-estaticas-con-azure-static-web-apps-y-azure-devops-5c63)
-- [Módulo 02 (Vídeos 13 à 18.1) - TypeScript Zero to Hero](https://dev.to/glaucia86/modulo-02-videos-13-a-18-1-typescript-zero-to-hero-5565)
-- [Módulo 02 (Vídeos 07 à 12) - TypeScript Zero to Hero](https://dev.to/glaucia86/modulo-02-videos-07-a-12-typescript-zero-to-hero-44oa)
+- [Módulo 02 &lpar;Vídeos 13 à 18.1&rpar; - TypeScript Zero to Hero](https://dev.to/glaucia86/modulo-02-videos-13-a-18-1-typescript-zero-to-hero-5565)
+- [Módulo 02 &lpar;Vídeos 07 à 12&rpar; - TypeScript Zero to Hero](https://dev.to/glaucia86/modulo-02-videos-07-a-12-typescript-zero-to-hero-44oa)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Let's Keep in Touch and Follow me 

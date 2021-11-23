@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 14](https://www.youtube.com/watch?v=UcKm1ADpWlQ)
 - [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 13](https://www.youtube.com/watch?v=8gG1OwMIDts)
 - [TypeScript - Zero to Hero | Demo - Tipo Never #30](https://www.youtube.com/watch?v=ZJt15H_MKLc)
 - [TypeScript - Zero to Hero | Tipo Never #29](https://www.youtube.com/watch?v=B355hDt29q4)
 - [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 12](https://www.youtube.com/watch?v=LtSeR3jy28Y)
-- [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 11](https://www.youtube.com/watch?v=5VSzUFIAh1U)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

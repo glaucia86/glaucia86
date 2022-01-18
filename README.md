@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 16](https://www.youtube.com/watch?v=hQaDG-oZQ_g)
+- [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 17](https://www.youtube.com/watch?v=XykcWilTg68)
+- [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 18](https://www.youtube.com/watch?v=TmGnuRhX_hI)
 - [Microsoft Learn Live Sessions #1: Crie uma Aplicação Node.js para o Azure Cosmos DB no VS Code](https://www.youtube.com/watch?v=X_J59TGRKI4)
 - [MS Learn Live Sessions #6: Crie um Bot com o QnA Maker](https://www.youtube.com/watch?v=LCguWGkaNIc)
-- [Microsoft Learn Live Sessions #5: The Mojifier – crie um bot do Slack para emojis no lugar de rostos](https://www.youtube.com/watch?v=5rHefbYCTqc)
-- [Microsoft Learn Live Sessions #4: Crie uma API Web com os controladores do ASP.NET Core](https://www.youtube.com/watch?v=rVfgnTR9WDs)
-- [Microsoft Learn Live Sessions #3: Criar APIs sem servidor com o Azure Functions](https://www.youtube.com/watch?v=7COMUg-2hEM)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

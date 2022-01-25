@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [TypeScript - Zero to Hero | Demo - While/do... while](https://www.youtube.com/watch?v=h1BpPZyl8j8)
+- [TypeScript - Zero to Hero | While/do... while](https://www.youtube.com/watch?v=01Hu8ekpnEc)
+- [TypeScript - Zero to Hero | Demo - Loop For](https://www.youtube.com/watch?v=-yAy5hBuW20)
+- [TypeScript - Zero to Hero | Loop For](https://www.youtube.com/watch?v=KUi9FhBResg)
 - [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 16](https://www.youtube.com/watch?v=hQaDG-oZQ_g)
-- [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 17](https://www.youtube.com/watch?v=XykcWilTg68)
-- [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 18](https://www.youtube.com/watch?v=TmGnuRhX_hI)
-- [Microsoft Learn Live Sessions #1: Crie uma Aplicação Node.js para o Azure Cosmos DB no VS Code](https://www.youtube.com/watch?v=X_J59TGRKI4)
-- [MS Learn Live Sessions #6: Crie um Bot com o QnA Maker](https://www.youtube.com/watch?v=LCguWGkaNIc)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

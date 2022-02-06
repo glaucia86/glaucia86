@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Bucles | Serie para Principiantes de JavaScript #25](https://www.youtube.com/watch?v=9mDkAALcX9o)
-- [Poblando Matrices &lpar;Arrays&rpar; | Serie para Principiantes de JavaScript #24](https://www.youtube.com/watch?v=YIvKEBRRN6I)
-- [Creación de Matrices &lpar;Arrays&rpar; | Serie para Principiantes de JavaScript #23](https://www.youtube.com/watch?v=7fbONHk6lAQ)
-- [Creación de Matrices &lpar;Arrays&rpar; | Serie para Principiantes de JavaScript #22](https://www.youtube.com/watch?v=4o64A0IewZ4)
-- [Demo: Lógica booleana con switch y otra sintaxis | Serie para Principiantes de JavaScript #21](https://www.youtube.com/watch?v=pyEiobpExxQ)
+- [Demo: Programación Asíncrona y Promesas | Serie para Principiantes de JavaScript #35](https://www.youtube.com/watch?v=4PkLTI9zKzg)
+- [Programación Asíncrona y Promesas | Serie para Principiantes de JavaScript #34](https://www.youtube.com/watch?v=sMWBvWT0vjo)
+- [Demo: Objetos en JavaScript | Serie para Principiantes de JavaScript #33](https://www.youtube.com/watch?v=Px7ZbtYCl4s)
+- [Objetos en JavaScript | Serie para Principiantes de JavaScript #32](https://www.youtube.com/watch?v=y4e7eGDhD5o)
+- [Demo: JavaScript Object Notation &lpar;JSON&rpar; | Serie para Principiantes de JavaScript #31](https://www.youtube.com/watch?v=o0iXyA0QxhA)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

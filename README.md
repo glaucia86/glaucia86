@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Creando tu Caja de Herramientas | Série para Iniciantes em JavaScript #03](https://www.youtube.com/watch?v=ysMrHssmhl0)
-- [Ejecutar JavaScript: ¿en el navegador o en el servidor? | Série para Iniciantes em JavaScript #01](https://www.youtube.com/watch?v=cNUlNOOhzC8)
-- [¿Qué es JavaScript? |  Serie para Principiantes de JavaScript #01](https://www.youtube.com/watch?v=oCSMjOkBcLE)
-- [TypeScript - Zero to Hero | Demo - While/do... while #41](https://www.youtube.com/watch?v=h1BpPZyl8j8)
-- [TypeScript - Zero to Hero | While/do... while #41](https://www.youtube.com/watch?v=01Hu8ekpnEc)
+- [Usando cadenas &lpar;Strings&rpar; en JavaScript | Série para Iniciantes em JavaScript #08](https://www.youtube.com/watch?v=Pt5zl8yYAH0)
+- [Demo: Declaración de Variables | Série para Iniciantes em JavaScript #07](https://www.youtube.com/watch?v=GPqLOC0V-WI)
+- [Declaración de Variables | Série para Iniciantes em JavaScript #06](https://www.youtube.com/watch?v=mUvddpeBCAs)
+- [Comentarios | Série para Iniciantes em JavaScript #05](https://www.youtube.com/watch?v=MqpJc-4YvNs)
+- [Creando tu Primera Aplicación | Série para Iniciantes em JavaScript #04](https://www.youtube.com/watch?v=XzOUzMv8Rh0)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

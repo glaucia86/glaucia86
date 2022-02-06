@@ -54,10 +54,10 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [TypeScript - Zero to Hero | Demo - While/do... while](https://www.youtube.com/watch?v=h1BpPZyl8j8)
-- [TypeScript - Zero to Hero | While/do... while](https://www.youtube.com/watch?v=01Hu8ekpnEc)
-- [TypeScript - Zero to Hero | Demo - Loop For](https://www.youtube.com/watch?v=-yAy5hBuW20)
-- [TypeScript - Zero to Hero | Loop For](https://www.youtube.com/watch?v=KUi9FhBResg)
+- [TypeScript - Zero to Hero | Demo - While/do... while #41](https://www.youtube.com/watch?v=h1BpPZyl8j8)
+- [TypeScript - Zero to Hero | While/do... while #41](https://www.youtube.com/watch?v=01Hu8ekpnEc)
+- [TypeScript - Zero to Hero | Demo - Loop For #39](https://www.youtube.com/watch?v=-yAy5hBuW20)
+- [TypeScript - Zero to Hero | Loop For #38](https://www.youtube.com/watch?v=KUi9FhBResg)
 - [Desenvolvendo Aplicação JWT com Node + MongoDB + Vue | Video 16](https://www.youtube.com/watch?v=hQaDG-oZQ_g)
 <!-- YOUTUBE:END -->
 

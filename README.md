@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Matemática en JavaScript | Série para Iniciantes em JavaScript #13](https://www.youtube.com/watch?v=pU73o-K3ylE)
-- [Demo: Tipos de datos de JavaScript | Série para Iniciantes em JavaScript #12](https://www.youtube.com/watch?v=2upCeEzlbyE)
-- [Tipos de datos de JavaScript | Série para Iniciantes em JavaScript #11](https://www.youtube.com/watch?v=fuksTtTga90)
-- [Demo: Uso de Plantillas Literales para Formatear Cadenas | Série para Iniciantes em JavaScript #10](https://www.youtube.com/watch?v=dfN6qwUY0r8)
-- [Uso de Plantillas Literales para Formatear Cadenas | Série para Iniciantes em JavaScript #09](https://www.youtube.com/watch?v=hdV8GVrSkt0)
+- [Lógica booleana con declaraciones if | Série para Iniciantes em JavaScript #18](https://www.youtube.com/watch?v=P0TrLOz15zk)
+- [Fechas | Série para Iniciantes em JavaScript #17](https://www.youtube.com/watch?v=ctZFP_icJ4s)
+- [Manejo de Errores &lpar;try/catch&rpar; | Série para Iniciantes em JavaScript #16](https://www.youtube.com/watch?v=GvDvOCZ9dAY)
+- [Números y Cadenas | Série para Iniciantes em JavaScript #15](https://www.youtube.com/watch?v=OJQQSKsC_cg)
+- [Números y Cadenas | Série para Iniciantes em JavaScript #14](https://www.youtube.com/watch?v=M20cUVNEnOA)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

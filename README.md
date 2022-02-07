@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Paquetes JavaScript &lpar;Packages&rpar; | Serie para Principiantes de JavaScript #38](https://www.youtube.com/watch?v=Sx7IndG4bMQ)
+- [Paquetes JavaScript &lpar;Packages&rpar; | Serie para Principiantes de JavaScript #37](https://www.youtube.com/watch?v=DDi2nfbGjzE)
+- [Async/Await | Serie para Principiantes de JavaScript #36](https://www.youtube.com/watch?v=4yJUTjtIlww)
 - [Demo: Programación Asíncrona y Promesas | Serie para Principiantes de JavaScript #35](https://www.youtube.com/watch?v=4PkLTI9zKzg)
 - [Programación Asíncrona y Promesas | Serie para Principiantes de JavaScript #34](https://www.youtube.com/watch?v=sMWBvWT0vjo)
-- [Demo: Objetos en JavaScript | Serie para Principiantes de JavaScript #33](https://www.youtube.com/watch?v=Px7ZbtYCl4s)
-- [Objetos en JavaScript | Serie para Principiantes de JavaScript #32](https://www.youtube.com/watch?v=y4e7eGDhD5o)
-- [Demo: JavaScript Object Notation &lpar;JSON&rpar; | Serie para Principiantes de JavaScript #31](https://www.youtube.com/watch?v=o0iXyA0QxhA)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

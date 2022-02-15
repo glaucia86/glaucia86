@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [TypeScript - Zero to Hero | Demo - Functions #43](https://www.youtube.com/watch?v=DHTQwvXcZOs)
 - [TypeScript - Zero to Hero | Functions #42](https://www.youtube.com/watch?v=AU7-s7Ucock)
 - [Paquetes JavaScript &lpar;Packages&rpar; | Serie para Principiantes de JavaScript #38](https://www.youtube.com/watch?v=Sx7IndG4bMQ)
 - [Paquetes JavaScript &lpar;Packages&rpar; | Serie para Principiantes de JavaScript #37](https://www.youtube.com/watch?v=DDi2nfbGjzE)
 - [Async/Await | Serie para Principiantes de JavaScript #36](https://www.youtube.com/watch?v=4yJUTjtIlww)
-- [Demo: Programación Asíncrona y Promesas | Serie para Principiantes de JavaScript #35](https://www.youtube.com/watch?v=4PkLTI9zKzg)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

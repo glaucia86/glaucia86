@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [TypeScript - Zero to Hero | Demo - Rest Parameters #48](https://www.youtube.com/watch?v=GdxGQA8ppk0)
-- [TypeScript - Zero to Hero | Demo - Default Parameters #46](https://www.youtube.com/watch?v=zbnwyJybtPg)
+- [TypeScript - Zero to Hero | Demo - Rest Parameters #49](https://www.youtube.com/watch?v=hEe0rD4-LVM)
+- [TypeScript - Zero to Hero | Demo - Default Parameters #47](https://www.youtube.com/watch?v=RFyhBnowMOY)
+- [TypeScript - Zero to Hero | Rest Parameters #48](https://www.youtube.com/watch?v=GdxGQA8ppk0)
+- [TypeScript - Zero to Hero | Default Parameters #46](https://www.youtube.com/watch?v=zbnwyJybtPg)
 - [VS Code Day em detalhes com experts](https://www.youtube.com/watch?v=Frs8X7byejo)
-- [MS Learn Live Sessions #2: Publique um app JavaScript em Angular, React, Svelte ou Vue com SWA](https://www.youtube.com/watch?v=JYkG_HxGejM)
-- [🔥DESCUBRA A PALAVRA SECRETA DO DIA DOS JOGOS: WORDLE &amp; TERM!!](https://www.youtube.com/watch?v=03tebgKl9Lo)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

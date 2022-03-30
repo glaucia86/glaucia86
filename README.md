@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MS Learn Live Sessions #3: Crie APIs Serverless com o Azure Functions](https://www.youtube.com/watch?v=hKTnKHQABm8)
 - [TypeScript - Zero to Hero | Demo - Rest Parameters #49](https://www.youtube.com/watch?v=hEe0rD4-LVM)
 - [TypeScript - Zero to Hero | Demo - Default Parameters #47](https://www.youtube.com/watch?v=RFyhBnowMOY)
 - [TypeScript - Zero to Hero | Rest Parameters #48](https://www.youtube.com/watch?v=GdxGQA8ppk0)
 - [TypeScript - Zero to Hero | Default Parameters #46](https://www.youtube.com/watch?v=zbnwyJybtPg)
-- [VS Code Day em detalhes com experts](https://www.youtube.com/watch?v=Frs8X7byejo)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

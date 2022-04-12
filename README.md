@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [CI e CD com GitHub Actions](https://www.youtube.com/watch?v=-mfSUpLsx6c)
 - [TypeScript - Zero to Hero | Classes #50](https://www.youtube.com/watch?v=7W3PNpoCB40)
 - [TypeScript - Zero to Hero | Demo - Classes #51](https://www.youtube.com/watch?v=tKVsXBMYm1g)
 - [TypeScript - Zero to Hero | Rest Parameters #48](https://www.youtube.com/watch?v=GdxGQA8ppk0)
 - [TypeScript - Zero to Hero | Demo - Default Parameters #47](https://www.youtube.com/watch?v=RFyhBnowMOY)
+- [TypeScript - Zero to Hero | Demo - Rest Parameters #49](https://www.youtube.com/watch?v=hEe0rD4-LVM)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

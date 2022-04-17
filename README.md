@@ -55,7 +55,7 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Code Shorts 01: Como usar Spread Operator com Tuplas em TypeScript?  #shorts](https://www.youtube.com/watch?v=7woQa8n0eTg)
-- [Novos vídeos disponíveis de #TypeScript - Zero to Hero! #shorts](https://www.youtube.com/watch?v=jwgFbd9pXho)
+- [Novos vídeos disponíveis de TypeScript - Zero to Hero! #shorts](https://www.youtube.com/watch?v=jwgFbd9pXho)
 - [TypeScript - Zero to Hero | Demo - Modificadores de Acesso #53](https://www.youtube.com/watch?v=1Nq2gE5Bzpo)
 - [TypeScript - Zero to Hero | Modificadores de Acesso #52](https://www.youtube.com/watch?v=TUrhve2mLx8)
 - [VS Code Day em detalhes com experts](https://www.youtube.com/watch?v=Frs8X7byejo)

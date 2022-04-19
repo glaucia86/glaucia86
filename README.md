@@ -56,7 +56,7 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 <!-- YOUTUBE:START -->
 - [Short Codes - Refatore Promises para Async/Await no VsCode #shorts](https://www.youtube.com/watch?v=pm-wif1ajOc)
 - [Introdução a Azure DevOps](https://www.youtube.com/watch?v=OE_UX0aiR_E)
-- [Code Shorts 01: Como usar Spread Operator com Tuplas em TypeScript?  #shorts](https://www.youtube.com/watch?v=7woQa8n0eTg)
+- [Short Codes - Como usar Spread Operator com Tuplas em TypeScript?  #shorts](https://www.youtube.com/watch?v=7woQa8n0eTg)
 - [Novos vídeos disponíveis de TypeScript - Zero to Hero! #shorts](https://www.youtube.com/watch?v=jwgFbd9pXho)
 - [TypeScript - Zero to Hero | Demo - Modificadores de Acesso #53](https://www.youtube.com/watch?v=1Nq2gE5Bzpo)
 <!-- YOUTUBE:END -->

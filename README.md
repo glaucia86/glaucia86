@@ -55,10 +55,10 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Build After Party 24/5](https://www.youtube.com/watch?v=TKyONWioGHk)
-- [Build After Party! Parte II](https://www.youtube.com/watch?v=IHuqL-E5M34)
 - [Short Codes - Refatore Promises para Async/Await no VsCode #shorts](https://www.youtube.com/watch?v=pm-wif1ajOc)
 - [Introdução a Azure DevOps](https://www.youtube.com/watch?v=OE_UX0aiR_E)
 - [Short Codes - Como usar Spread Operator com Tuplas em TypeScript?  #shorts](https://www.youtube.com/watch?v=7woQa8n0eTg)
+- [Novos vídeos disponíveis de TypeScript - Zero to Hero! #shorts](https://www.youtube.com/watch?v=jwgFbd9pXho)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

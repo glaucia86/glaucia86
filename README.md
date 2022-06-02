@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Visão Geral do Curso | Aprenda: Aplicação Full Stack com Azure SQL &amp; Prisma [Video - 00]](https://www.youtube.com/watch?v=TAWEDqMVcPM)
 - [Build After Party! Parte II](https://www.youtube.com/watch?v=IHuqL-E5M34)
 - [Build After Party 24/5](https://www.youtube.com/watch?v=TKyONWioGHk)
 - [Short Codes - Refatore Promises para Async/Await no VsCode #shorts](https://www.youtube.com/watch?v=pm-wif1ajOc)
 - [Introdução a Azure DevOps](https://www.youtube.com/watch?v=OE_UX0aiR_E)
-- [Short Codes - Como usar Spread Operator com Tuplas em TypeScript?  #shorts](https://www.youtube.com/watch?v=7woQa8n0eTg)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

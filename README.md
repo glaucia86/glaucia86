@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Instalando os Pacotes no BackEnd | Aprenda: Full Stack App com Azure SQL &amp; Prisma [Video - 26]](https://www.youtube.com/watch?v=NOzDTmouJCs)
+- [Criando Database Server no Azure | Aprenda: Full Stack App com Azure SQL &amp; Prisma [Video - 23]](https://www.youtube.com/watch?v=88qpVZwbUH4)
 - [Learn Live #5: The Mojifier, crie um bot do Slack para emojis no lugar de rostos](https://www.youtube.com/watch?v=hW22dLkrSYc)
 - [Objetivos de Aprendizagem | Aprenda: Aplicação Full Stack com Azure SQL &amp; Prisma [Video  - 20]](https://www.youtube.com/watch?v=zJ5r8CVircQ)
 - [Visão Geral do Curso | Aprenda: Aplicação Full Stack com Azure SQL &amp; Prisma [Video - 00]](https://www.youtube.com/watch?v=TAWEDqMVcPM)
-- [Build After Party! Parte II](https://www.youtube.com/watch?v=IHuqL-E5M34)
-- [Build After Party 24/5](https://www.youtube.com/watch?v=TKyONWioGHk)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

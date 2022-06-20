@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Encontro de Mulheres na Tecnologia](https://www.youtube.com/watch?v=5CXk-JZw-E4)
-- [Learn Live #5: The Mojifier, crie um bot do Slack para emojis no lugar de rostos](https://www.youtube.com/watch?v=hW22dLkrSYc)
-- [Visão Geral do Curso | Aprenda: Aplicação Full Stack com Azure SQL &amp; Prisma [Video - 00]](https://www.youtube.com/watch?v=TAWEDqMVcPM)
-- [Build After Party! Parte II](https://www.youtube.com/watch?v=IHuqL-E5M34)
-- [Build After Party 24/5](https://www.youtube.com/watch?v=TKyONWioGHk)
+- [Próximos Passos | Aprenda: Aplicação Full Stack com Azure SQL &amp; Prisma [Video  - 34]](https://www.youtube.com/watch?v=OzLAUfCNIbA)
+- [Revisão Módulo 03 | Aprenda: Aplicação Full Stack com Azure SQL &amp; Prisma [Video - 16]](https://www.youtube.com/watch?v=sG95UCivTfg)
+- [Estruturando Projeto BackEnd com Azure Functions | Full Stack App com Azure SQL &amp; Prisma [Video 21]](https://www.youtube.com/watch?v=tmJ3ehIksDY)
+- [Deploy da Aplicação no ASWA - Parte 2 | Aprenda: App Full Stack com Azure SQL &amp; Prisma [Vídeo - 33]](https://www.youtube.com/watch?v=sRtJFHehv2s)
+- [Principais Conceitos do Prisma | Aprenda: Aplicação Full Stack com Azure SQL &amp; Prisma [Video - 04]](https://www.youtube.com/watch?v=qPTet2AHUgQ)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

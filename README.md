@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Encontro de Mulheres na Tecnologia](https://www.youtube.com/watch?v=5CXk-JZw-E4)
 - [Criando &#39;CreateEmployee&#39; no Azure Functions | Full Stack App com Azure SQL &amp; Prisma [Video - 27]](https://www.youtube.com/watch?v=zFceKcL8CaE)
 - [Por que devemos usar o ASWA? | Aprenda: Aplicação Full Stack com Azure SQL &amp; Prisma [Video - 14]](https://www.youtube.com/watch?v=gUXVuTyYUAE)
 - [Próximos Passos | Aprenda: Aplicação Full Stack com Azure SQL &amp; Prisma [Vídeo - 34]](https://www.youtube.com/watch?v=OzLAUfCNIbA)
 - [Revisão Módulo 03 | Aprenda: Aplicação Full Stack com Azure SQL &amp; Prisma [Video - 16]](https://www.youtube.com/watch?v=sG95UCivTfg)
-- [Estruturando Projeto BackEnd com Azure Functions | Full Stack App com Azure SQL &amp; Prisma [Video 21]](https://www.youtube.com/watch?v=tmJ3ehIksDY)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

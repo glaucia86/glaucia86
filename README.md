@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [TypeScript - Zero to Hero | Demo - Modificadores de Acesso: readonly #55](https://www.youtube.com/watch?v=kHzkhKMNyEI)
+- [TypeScript - Zero to Hero | Demo - Modificadores de Acesso: readonly #54](https://www.youtube.com/watch?v=tTuiHXKW9v4)
 - [Microsoft Learn Live Sessions #4: Crie uma API Web com os controladores do ASP.NET Core](https://www.youtube.com/watch?v=rVfgnTR9WDs)
 - [Encontro de Mulheres na Tecnologia](https://www.youtube.com/watch?v=5CXk-JZw-E4)
 - [Criando &#39;CreateEmployee&#39; no Azure Functions | Full Stack App com Azure SQL &amp; Prisma [Video - 27]](https://www.youtube.com/watch?v=zFceKcL8CaE)
-- [Por que devemos usar o ASWA? | Aprenda: Aplicação Full Stack com Azure SQL &amp; Prisma [Video - 14]](https://www.youtube.com/watch?v=gUXVuTyYUAE)
-- [Próximos Passos | Aprenda: Aplicação Full Stack com Azure SQL &amp; Prisma [Vídeo - 34]](https://www.youtube.com/watch?v=OzLAUfCNIbA)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

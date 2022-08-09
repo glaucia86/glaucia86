@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [TypeScript - Zero to Hero | Demo - Herança #58](https://www.youtube.com/watch?v=v3X3vk2YGvI)
 - [TypeScript - Zero to Hero | Herança #58](https://www.youtube.com/watch?v=GawUXUjgrG8)
 - [MS Learn Live Sessions #6: Crie um Bot com o QnA Maker](https://www.youtube.com/watch?v=LCguWGkaNIc)
 - [TypeScript - Zero to Hero | Demo - Uso de Get &amp; Set #57](https://www.youtube.com/watch?v=AFYCxTnVQbM)
 - [TypeScript - Zero to Hero | Uso de Get &amp; Set #56](https://www.youtube.com/watch?v=5cKzzP4CeKM)
-- [Rory Preddy: ask me anything about Java](https://www.youtube.com/watch?v=ML2tANptzZ8)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

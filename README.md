@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Mesa redonda sobre Java, DevOps e Acessibilidade](https://www.youtube.com/watch?v=ML2tANptzZ8)
 - [TypeScript - Zero to Hero | Demo - Membros Estáticos #61](https://www.youtube.com/watch?v=uHy4vhX3LRA)
 - [TypeScript - Zero to Hero | Membros Estáticos #60](https://www.youtube.com/watch?v=vqhjXC19_WI)
 - [Como entrar no mercado de tecnologia?](https://www.youtube.com/watch?v=KBkpfjYUCQk)
 - [TypeScript - Zero to Hero | Demo - Herança #59](https://www.youtube.com/watch?v=v3X3vk2YGvI)
-- [TypeScript - Zero to Hero | Herança #58](https://www.youtube.com/watch?v=GawUXUjgrG8)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

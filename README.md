@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Criando aplicações Serverless com Visual Studio Code](https://www.youtube.com/watch?v=nacnyQEQI2Y)
 - [Mesa redonda sobre Java, DevOps e Acessibilidade](https://www.youtube.com/watch?v=ML2tANptzZ8)
 - [TypeScript - Zero to Hero | Demo - Membros Estáticos #61](https://www.youtube.com/watch?v=uHy4vhX3LRA)
 - [TypeScript - Zero to Hero | Membros Estáticos #60](https://www.youtube.com/watch?v=vqhjXC19_WI)
 - [Como entrar no mercado de tecnologia?](https://www.youtube.com/watch?v=KBkpfjYUCQk)
-- [TypeScript - Zero to Hero | Demo - Herança #59](https://www.youtube.com/watch?v=v3X3vk2YGvI)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

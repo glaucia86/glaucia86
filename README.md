@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [TypeScript - Zero to Hero | Demo - Classes Abstratas #62](https://www.youtube.com/watch?v=7-W_cJOPa4E)
+- [TypeScript - Zero to Hero | Classes Abstratas #62](https://www.youtube.com/watch?v=BB9aVjqLEJc)
 - [Conheça as Novidades do Microsoft Ignite 2022](https://www.youtube.com/watch?v=gkKGTgIOVWA)
 - [Criando aplicações Serverless com Visual Studio Code](https://www.youtube.com/watch?v=nacnyQEQI2Y)
 - [Mesa redonda sobre Java, DevOps e Acessibilidade](https://www.youtube.com/watch?v=ML2tANptzZ8)
-- [TypeScript - Zero to Hero | Demo - Membros Estáticos #61](https://www.youtube.com/watch?v=uHy4vhX3LRA)
-- [TypeScript - Zero to Hero | Membros Estáticos #60](https://www.youtube.com/watch?v=vqhjXC19_WI)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

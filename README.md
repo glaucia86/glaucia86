@@ -64,11 +64,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LEARN - Authentication App with Next.Js &amp; Microsoft Graph](https://dev.to/azure/learn-authentication-app-with-nextjs-microsoft-graph-4i0p)
 - [Free Course - Learn: A Full Stack Application with Azure SQL and Prisma](https://dev.to/azure/free-course-learn-a-full-stack-application-with-azure-sql-and-prisma-42kp)
 - [Módulos 04/05 &lpar;Vídeos: 42 à 63&rpar; - TypeScript Zero to Hero](https://dev.to/azure/modulos-0405-videos-42-a-63-typescript-zero-to-hero-4bo4)
 - [Curso gratuito - Aprenda: Aplicação Full Stack com Azure SQL &amp; Prisma](https://dev.to/azure/curso-gratuito-aprenda-aplicacao-full-stack-com-azure-sql-prisma-2baj)
 - [Building Applications with Astro Build &amp; Azure Static Web Apps CLI!](https://dev.to/azure/building-applications-with-astro-build-azure-static-web-apps-cli-a20)
-- [Building Star Wars Crawler with Azure Static Web Apps - Part 3](https://dev.to/azure/building-star-wars-crawler-with-azure-static-web-apps-part-3-41ip)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Let's Keep in Touch and Follow me 

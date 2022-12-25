@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [TypeScript - Zero to Hero | Demo - Intersection Types #69](https://www.youtube.com/watch?v=LvVWaHk3l0I)
+- [TypeScript - Zero to Hero | Intersection Types #68](https://www.youtube.com/watch?v=2hE57wR86YY)
 - [TypeScript - Zero to Hero | Demo - Extensão de Interfaces #67](https://www.youtube.com/watch?v=x0KYhX22DJ8)
 - [TypeScript - Zero to Hero | Extensão de Interfaces #66](https://www.youtube.com/watch?v=Eul-SGHaziA)
 - [TypeScript - Zero to Hero | Demo - Introdução à Interfaces #65](https://www.youtube.com/watch?v=gEmE6EnnMN4)
-- [TypeScript - Zero to Hero | Introdução à Interfaces #64](https://www.youtube.com/watch?v=kr-7yJxMfuU)
-- [🚨 NOVOS VÍDEOS - TYPESCRIPT](https://www.youtube.com/watch?v=qMvHO1P_fsM)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

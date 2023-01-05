@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Desenvolva Aplicações JavaScript com Microsoft Graph - Parte I](https://www.youtube.com/watch?v=Gm4-KpnyJgg)
 - [TypeScript - Zero to Hero | Demo - Intersection Types #69](https://www.youtube.com/watch?v=LvVWaHk3l0I)
 - [TypeScript - Zero to Hero | Intersection Types #68](https://www.youtube.com/watch?v=2hE57wR86YY)
 - [Short Codes - Dados Tabulados em JavaScript com console.table #shorts](https://www.youtube.com/watch?v=yPsWM8VIdzQ)
 - [TypeScript - Zero to Hero | Demo - Extensão de Interfaces #67](https://www.youtube.com/watch?v=x0KYhX22DJ8)
-- [TypeScript - Zero to Hero | Extensão de Interfaces #66](https://www.youtube.com/watch?v=Eul-SGHaziA)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

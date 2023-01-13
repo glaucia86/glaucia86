@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Short Codes - Removendo dados duplicados em JavaScript #shorts](https://www.youtube.com/watch?v=8FQvQSFN8Nk)
 - [TypeScript - Zero to Hero | Demo - Type Guards #71](https://www.youtube.com/watch?v=83eUc_Qzvxk)
 - [TypeScript - Zero to Hero | Type Guards #70](https://www.youtube.com/watch?v=DNmCS4PT9bc)
 - [Desenvolva Aplicações JavaScript com Microsoft Graph - Parte I](https://www.youtube.com/watch?v=Gm4-KpnyJgg)
 - [TypeScript - Zero to Hero | Demo - Intersection Types #69](https://www.youtube.com/watch?v=LvVWaHk3l0I)
-- [TypeScript - Zero to Hero | Intersection Types #68](https://www.youtube.com/watch?v=2hE57wR86YY)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

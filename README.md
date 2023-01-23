@@ -54,7 +54,7 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Desenvolva Aplicações JavaScript com Microsoft Graph - Parte I](https://www.youtube.com/watch?v=l6KI6YyZd9Q)
+- [Desenvolva Aplicações JavaScript com Microsoft Graph - Parte I](https://www.youtube.com/watch?v=HsJWDF-NhHo)
 - [5 DICAS Para Conseguir Um TRABALHO REMOTO!](https://www.youtube.com/watch?v=YXI1GE1F8wY)
 - [Short Codes - Removendo dados duplicados em JavaScript #shorts](https://www.youtube.com/watch?v=8FQvQSFN8Nk)
 - [TypeScript - Zero to Hero | Demo - Type Guards #71](https://www.youtube.com/watch?v=83eUc_Qzvxk)

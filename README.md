@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🔥 Short Codes - Transformando valores key-pair de arrays para objetos com fromEntries&lpar; &rpar;; #shorts](https://www.youtube.com/watch?v=3X758o_UW40)
 - [Desenvolva Aplicações JavaScript com Microsoft Graph - Parte I](https://www.youtube.com/watch?v=HsJWDF-NhHo)
 - [5 DICAS Para Conseguir Um TRABALHO REMOTO!](https://www.youtube.com/watch?v=YXI1GE1F8wY)
 - [Short Codes - Removendo dados duplicados em JavaScript #shorts](https://www.youtube.com/watch?v=8FQvQSFN8Nk)
 - [TypeScript - Zero to Hero | Demo - Type Guards #71](https://www.youtube.com/watch?v=83eUc_Qzvxk)
-- [TypeScript - Zero to Hero | Type Guards #70](https://www.youtube.com/watch?v=DNmCS4PT9bc)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

@@ -14,7 +14,7 @@
 
 ## Bio - Hi, Coders! 👋
 
-Glaucia Lemos is Cloud Advocate in JavaScript/Node & TypeScript at Microsoft. She loves helping and making contributions to Open Source projects in **[GitHub](https://github.com/glaucia86)**. 
+Glaucia Lemos is Developer Advocate in JavaScript/Node & TypeScript at Microsoft. She loves helping and making contributions to Open Source projects in **[GitHub](https://github.com/glaucia86)**. 
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 

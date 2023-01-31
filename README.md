@@ -57,8 +57,8 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 - [TypeScript - Zero to Hero | Demo - Type Casting #73](https://www.youtube.com/watch?v=UlTeD4l6OmQ)
 - [TypeScript - Zero to Hero | Type Casting #72](https://www.youtube.com/watch?v=eAjmQ_8fKwY)
 - [Short Codes - Transformando valores key-pair de arrays para objetos com fromEntries&lpar; &rpar; #shorts](https://www.youtube.com/watch?v=PX4Mn9bGlRQ)
-- [Desenvolva Aplicações JavaScript com Microsoft Graph - Parte I](https://www.youtube.com/watch?v=HsJWDF-NhHo)
 - [5 DICAS Para Conseguir Um TRABALHO REMOTO!](https://www.youtube.com/watch?v=YXI1GE1F8wY)
+- [Short Codes - Removendo dados duplicados em JavaScript #shorts](https://www.youtube.com/watch?v=8FQvQSFN8Nk)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [TypeScript - Zero to Hero | Demo - Conditional Types #76](https://www.youtube.com/watch?v=nBhTRUHMgng)
+- [TypeScript - Zero to Hero | Demo - Conditional Types #77](https://www.youtube.com/watch?v=vCNV9gu75Ic)
+- [TypeScript - Zero to Hero | Conditional Types #76](https://www.youtube.com/watch?v=nBhTRUHMgng)
 - [TypeScript - Zero to Hero | Demo - Type Assertion #75](https://www.youtube.com/watch?v=B0ByaF7x184)
 - [TypeScript - Zero to Hero | Type Assertion #74](https://www.youtube.com/watch?v=A5SOxUAOCIQ)
 - [Desenvolva Aplicações JavaScript com Microsoft Graph - Parte I](https://www.youtube.com/watch?v=HsJWDF-NhHo)
-- [TypeScript - Zero to Hero | Demo - Type Casting #73](https://www.youtube.com/watch?v=UlTeD4l6OmQ)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

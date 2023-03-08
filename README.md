@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [TypeScript - Zero to Hero | Demo - MappedTypes #79](https://www.youtube.com/watch?v=ih1t6eKSh24)
+- [TypeScript - Zero to Hero | MappedTypes #78](https://www.youtube.com/watch?v=eztQedVNdY0)
 - [Aprenda a retornar array para objetos com Object.entries&lpar;&rpar;;](https://www.youtube.com/watch?v=RpHv5ErQJo0)
 - [TypeScript - Zero to Hero | Demo - Conditional Types #77](https://www.youtube.com/watch?v=vCNV9gu75Ic)
 - [TypeScript - Zero to Hero | Conditional Types #76](https://www.youtube.com/watch?v=nBhTRUHMgng)
-- [TypeScript - Zero to Hero | Demo - Type Assertion #75](https://www.youtube.com/watch?v=B0ByaF7x184)
-- [TypeScript - Zero to Hero | Type Assertion #74](https://www.youtube.com/watch?v=A5SOxUAOCIQ)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

@@ -54,11 +54,11 @@ Outside of development, Glaucia enjoys learn new languages, love meeting differe
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎯Mesclando Arrays com Método concat&lpar;&rpar;; #shorts](https://www.youtube.com/watch?v=n9o51o5fm2k)
 - [Crie Regex com GitHub Copilot!](https://www.youtube.com/watch?v=NXonuzG3AT4)
 - [Mulheres transformando a tecnologia](https://www.youtube.com/watch?v=Ekn5y2OJOmA)
 - [TypeScript - Zero to Hero | Demo - MappedTypes #79](https://www.youtube.com/watch?v=ih1t6eKSh24)
 - [TypeScript - Zero to Hero | MappedTypes #78](https://www.youtube.com/watch?v=eztQedVNdY0)
-- [Aprenda a retornar array para objetos com Object.entries&lpar;&rpar;;](https://www.youtube.com/watch?v=RpHv5ErQJo0)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

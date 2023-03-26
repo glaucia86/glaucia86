@@ -18,9 +18,11 @@ Glaucia Lemos is Developer Advocate in JavaScript/Node & TypeScript at Microsoft
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Glaucia already helped as a Member & Contributor at **[React Community](https://github.com/reactjs)** making contributions to Nodejs.org and Reactjs.org translations into Portuguese. Glaucia also belongs in quite inclusive Communities such as **[WoMakersCode](https://womakerscode.org/)** - an organization focused on helping, inspiring and empowering even more women in technology help them to gain a job opportunity, also a **[Prisma Ambassador](https://www.prisma.io/ambassador)**. Currently, Glaucia lives in Rio de Janeiro, Brazil. And her greatest passion is sharing knowledge for all people!
+Glaucia Lemos is a Developer Advocate in JavaScript, Node.js, and TypeScript at Microsoft. She loves helping and making contributions to open-source projects on GitHub.
 
-Outside of development, Glaucia enjoys learn new languages, love meeting different people and cultures, a movie buff and drummer!
+Glaucia already helped as a Member and Contributor at **[React Community](https://github.com/reactjs)**, making contributions to Nodejs.org and Reactjs.org translations into Portuguese. Glaucia also belongston quite inclusive communities such as **[WoMakersCode](https://womakerscode.org/)**, an organization focused on helping, inspiring, and empowering even more women in technology and helping them gain job opportunities and also she is a **[Prisma Ambassador](https://www.prisma.io/ambassador)**. Currently, Glaucia lives in Rio de Janeiro, Brazil. And her greatest passion is sharing knowledge with everyone!
+
+Outside of development, Glaucia enjoys learning new languages, meeting different people and cultures, and being a movie buff and drumme
 
 ## 💻 Technologies & Tools
 

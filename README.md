@@ -56,11 +56,11 @@ Outside of development, Glaucia enjoys learning new languages, meeting different
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [TypeScript - Zero to Hero | Demo - Introdução à Generics #83](https://www.youtube.com/watch?v=3M33BurmTkI)
 - [🎯Merge de objetos com Object.assign&lpar;&rpar; #shorts](https://www.youtube.com/watch?v=qAkiJjS7WYY)
 - [TypeScript - Zero to Hero | Demo - Satisfies Operator #81](https://www.youtube.com/watch?v=wRdvq7UodjQ)
 - [TypeScript - Zero to Hero | Satisfies Operator #80](https://www.youtube.com/watch?v=nSKE7Vhh11A)
 - [🎯Mesclando Arrays com Método concat&lpar;&rpar;; #shorts](https://www.youtube.com/watch?v=n9o51o5fm2k)
-- [Crie Regex com GitHub Copilot!](https://www.youtube.com/watch?v=NXonuzG3AT4)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

@@ -56,11 +56,11 @@ Outside of development, Glaucia enjoys learning new languages, meeting different
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [TypeScript - Zero to Hero | Demo - Generic Classes #86](https://www.youtube.com/watch?v=qmjuwfIfB-I)
+- [TypeScript - Zero to Hero | Demo - Generic Classes #87](https://www.youtube.com/watch?v=MyrmU5sAh8Y)
+- [TypeScript - Zero to Hero | Generic Classes #86](https://www.youtube.com/watch?v=qmjuwfIfB-I)
 - [🎯Uso do método: Array.fill&lpar;&rpar;; em JavaScript #shorts](https://www.youtube.com/watch?v=6gDyMPJ8XZI)
 - [TypeScript - Zero to Hero | Demo - Generics Constraints #85](https://www.youtube.com/watch?v=pyEMVwE-vSI)
 - [TypeScript - Zero to Hero | Generics Constraints #84](https://www.youtube.com/watch?v=_aBEBpE633Y)
-- [TypeScript - Zero to Hero | Demo - Introdução à Generics #83](https://www.youtube.com/watch?v=3M33BurmTkI)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

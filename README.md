@@ -56,7 +56,7 @@ Outside of development, Glaucia enjoys learning new languages, meeting different
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [TypeScript - Zero to Hero | Demo - Modules #90](https://www.youtube.com/watch?v=5bUH11X4mCU)
+- [TypeScript - Zero to Hero | Demo - Modules #91](https://www.youtube.com/watch?v=5bUH11X4mCU)
 - [TypeScript - Zero to Hero | Modules #90](https://www.youtube.com/watch?v=X2q064YSxn4)
 - [CityJS pre-conference](https://www.youtube.com/watch?v=HSV4GV21RQc)
 - [TypeScript - Zero to Hero | Demo - Generic Interfaces #89](https://www.youtube.com/watch?v=sZWejDFIJVY)

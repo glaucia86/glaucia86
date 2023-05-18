@@ -56,7 +56,7 @@ Outside of development, Glaucia enjoys learning new languages, meeting different
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [VS Code, Codespaces e Copilot](https://www.youtube.com/watch?v=CL31Xq_lc8s)
+- [TypeScript - Zero to Hero | Hands on - Projeto TypeScript com Express.Js #92](https://www.youtube.com/watch?v=bz2PeVJUgyM)
 - [TypeScript - Zero to Hero | Demo - Modules #91](https://www.youtube.com/watch?v=5bUH11X4mCU)
 - [TypeScript - Zero to Hero | Modules #90](https://www.youtube.com/watch?v=X2q064YSxn4)
 - [CityJS pre-conference](https://www.youtube.com/watch?v=HSV4GV21RQc)

@@ -66,11 +66,11 @@ Outside of development, Glaucia enjoys learning new languages, meeting different
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aplicación de Referencia Empresarial en JavaScript - Contoso Real Estate](https://dev.to/azure/aplicacion-de-referencia-empresarial-en-javascript-contoso-real-estate-63i)
 - [Aplicação de Referência Empresarial em JavaScript - Contoso Real Estate](https://dev.to/azure/aplicacao-de-referencia-empresarial-em-javascript-contoso-real-estate-23ia)
 - [LEARN: Take a Break Reminder App with Next.js and Microsoft Graph](https://dev.to/azure/learn-take-a-break-reminder-app-3gj6)
 - [LEARN: Authentication App with Next.js &amp; Microsoft Graph](https://dev.to/azure/learn-authentication-app-with-nextjs-microsoft-graph-4i0p)
 - [Free Course - Learn: A Full Stack Application with Azure SQL and Prisma](https://dev.to/azure/free-course-learn-a-full-stack-application-with-azure-sql-and-prisma-42kp)
-- [Módulos 04/05 &lpar;Vídeos: 42 à 63&rpar; - TypeScript Zero to Hero](https://dev.to/azure/modulos-0405-videos-42-a-63-typescript-zero-to-hero-4bo4)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Let's Keep in Touch and Follow me 

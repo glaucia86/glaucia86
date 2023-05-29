@@ -56,11 +56,11 @@ Outside of development, Glaucia enjoys learning new languages, meeting different
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Bits of Build: Conversa com especialistas sobre DevOps &amp; Developer Tools](https://www.youtube.com/watch?v=v9X08RMUYHo)
 - [Aumente a Produtividade com: TypeScript + Visual Studio Code + Codespaces + Copilot [Parte 01]](https://www.youtube.com/watch?v=CL31Xq_lc8s)
 - [TypeScript - Zero to Hero | Hands on - Projeto TypeScript com Express.Js #92](https://www.youtube.com/watch?v=bz2PeVJUgyM)
 - [TypeScript - Zero to Hero | Demo - Modules #91](https://www.youtube.com/watch?v=5bUH11X4mCU)
 - [TypeScript - Zero to Hero | Modules #90](https://www.youtube.com/watch?v=X2q064YSxn4)
+- [CityJS pre-conference](https://www.youtube.com/watch?v=HSV4GV21RQc)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

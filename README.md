@@ -18,11 +18,11 @@ Glaucia Lemos is Developer Advocate in JavaScript/Node & TypeScript at Microsoft
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Glaucia Lemos is a Developer Advocate in JavaScript, Node.js, and TypeScript at Microsoft. She loves helping and making contributions to open-source projects on GitHub.
+Glaucia Lemos is a Developer Advocate for JavaScript and TypeScript at Microsoft. She loves helping and making contributions to open-source projects on GitHub.
 
-Glaucia already helped as a Member and Contributor at **[React Community](https://github.com/reactjs)**, making contributions to Nodejs.org and Reactjs.org translations into Portuguese. Glaucia also belongston quite inclusive communities such as **[WoMakersCode](https://womakerscode.org/)**, an organization focused on helping, inspiring, and empowering even more women in technology and helping them gain job opportunities and also she is a **[Prisma Ambassador](https://www.prisma.io/ambassador)**. Currently, Glaucia lives in Rio de Janeiro, Brazil. And her greatest passion is sharing knowledge with everyone!
+Glaucia already helped as a Member and Contributor at **[React Community](https://github.com/reactjs)**, making contributions to Nodejs.org and Reactjs.org translations into Portuguese. Glaucia also belongs to quite inclusive communities such as Glaucia also belongs to quite inclusive communities such as **[WoMakersCode](https://womakerscode.org/)**, an organization focused on helping, inspiring, and empowering even more women in technology and helping them gain job opportunities and she is also a **[Prisma Ambassador](https://www.prisma.io/ambassador)**. Currently, Glaucia lives in Rio de Janeiro, Brazil. And her greatest passion is sharing knowledge with everyone!
 
-Outside of development, Glaucia enjoys learning new languages, meeting different people and cultures, and being a movie buff and drumme
+Outside of development, Glaucia enjoys learning new languages, meeting different people and cultures, and being a movie buff and drummer.
 
 ## 💻 Technologies & Tools
 
@@ -47,12 +47,14 @@ Outside of development, Glaucia enjoys learning new languages, meeting different
 
 </p>
 
+
 ## ⭐ GitHub Stats
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=glaucia86&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=glaucia86&hide=css,java,html&theme=tokyonight">
-</p>
+![glaucia86's Stats](https://github-readme-stats.vercel.app/api?username=glaucia86&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
+![glaucia86's Streak](https://github-readme-streak-stats.herokuapp.com/?user=glaucia86&theme=radical&hide_border=true)
+
+![glaucia86's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glaucia86&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->

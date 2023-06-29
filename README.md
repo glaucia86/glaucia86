@@ -58,11 +58,11 @@ Outside of development, Glaucia enjoys learning new languages, meeting different
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Lançamento do projeto E2E de JavaScript](https://www.youtube.com/watch?v=XTJADa4izsw)
 - [TypeScript REST API App: GH Copilot + Swagger + Docker + Azure Database for PostgreSQL - PARTE 03](https://www.youtube.com/watch?v=OeY5k0I3FXc)
 - [Desenvolvimento de API REST em TypeScript com GitHub Copilot &amp; Codespace - Parte 3](https://www.youtube.com/watch?v=tThLa50XE1Y)
 - [TypeScript REST API App: GH Copilot + Swagger + Docker + Azure Database for PostgreSQL - PARTE 02](https://www.youtube.com/watch?v=tKURAZvb6YY)
 - [Desenvolvimento de API REST em TypeScript com GitHub Copilot &amp; Codespaces](https://www.youtube.com/watch?v=Oud5LzWU4UE)
-- [Teams Toolkit para Visual Studio Code](https://www.youtube.com/watch?v=diKKDlwg_u4)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

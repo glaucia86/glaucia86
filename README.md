@@ -58,11 +58,11 @@ Outside of development, Glaucia enjoys learning new languages, meeting different
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Let&#39;s Coding: Projeto Open Source Microsoft: Contoso Real Estate - Dia 04](https://www.youtube.com/watch?v=fIoVk9w_-Vg)
 - [Let&#39;s Coding: Projeto Open Source Microsoft: Contoso Real Estate - Dia 03](https://www.youtube.com/watch?v=lGFe2L6YgWw)
 - [Desenvolvimento de API REST em TypeScript com GitHub Copilot &amp; Codespaces](https://www.youtube.com/watch?v=Oud5LzWU4UE)
 - [Let&#39;s Coding: Projeto Open Source Microsoft: Contoso Real Estate - Dia 01](https://www.youtube.com/watch?v=CkFwQ-WKE20)
 - [TypeScript REST API App: GH Copilot + Swagger + Docker + Azure Database for PostgreSQL - PARTE 04](https://www.youtube.com/watch?v=JCSY0k7SptY)
-- [Lançamento do projeto E2E de JavaScript](https://www.youtube.com/watch?v=XTJADa4izsw)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

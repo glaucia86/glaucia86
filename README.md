@@ -58,11 +58,11 @@ Outside of development, Glaucia enjoys learning new languages, meeting different
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Let&#39;s Coding: Projeto Open Source da Microsoft: Contoso Real Estate](https://www.youtube.com/watch?v=-3qwe2PHJfg)
 - [Let&#39;s Coding: Projeto Open Source Microsoft: Contoso Real Estate - Dia 08](https://www.youtube.com/watch?v=df7QEmYHN7w)
 - [Let&#39;s Coding: Projeto Open Source Microsoft: Contoso Real Estate - Dia 07](https://www.youtube.com/watch?v=TIq6dOVu928)
 - [Let&#39;s Coding: Projeto Open Source Microsoft: Contoso Real Estate - Dia 06](https://www.youtube.com/watch?v=93Rgz68CuNY)
 - [Let&#39;s Coding: Projeto Open Source Microsoft: Contoso Real Estate - Dia 05](https://www.youtube.com/watch?v=Ba2q81bA1vA)
-- [Let&#39;s Coding: Projeto Open Source Microsoft: Contoso Real Estate - Dia 04](https://www.youtube.com/watch?v=fIoVk9w_-Vg)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

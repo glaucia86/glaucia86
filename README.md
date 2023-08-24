@@ -58,11 +58,11 @@ Outside of development, Glaucia enjoys learning new languages, meeting different
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [LangChain com Microsoft Azure OpenAI - Parte 3](https://www.youtube.com/watch?v=n5H6YwHhGVo)
 - [LangChain com Microsoft Azure OpenAI - Parte 1](https://www.youtube.com/watch?v=2BApB0JtzZI)
 - [LangChain com Microsoft Azure OpenAI – Parte 2](https://www.youtube.com/watch?v=wp8CloDmwPQ)
 - [Let&#39;s Coding: Projeto Open Source da Microsoft: Contoso Real Estate - Dia 10](https://www.youtube.com/watch?v=-3qwe2PHJfg)
 - [Let&#39;s Coding: Projeto Open Source Microsoft: Contoso Real Estate - Dia 09](https://www.youtube.com/watch?v=f2hifK0fEfk)
-- [Let&#39;s Coding: Projeto Open Source Microsoft: Contoso Real Estate - Dia 08](https://www.youtube.com/watch?v=df7QEmYHN7w)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

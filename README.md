@@ -58,11 +58,11 @@ Outside of development, Glaucia enjoys learning new languages, meeting different
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [LangChain com Microsoft Azure OpenAI - Parte 2](https://www.youtube.com/watch?v=n5H6YwHhGVo)
 - [LangChain com Microsoft Azure OpenAI – Parte 1](https://www.youtube.com/watch?v=wp8CloDmwPQ)
 - [Live Coding: Refatorando um projeto OSS Pessoal](https://www.youtube.com/watch?v=dKdzsjl74Z4)
 - [🤑🤑Seja uma Pessoa Desenvolvedora de Sucesso! PARE de se Apegar a uma Única Linguagem de Programação!](https://www.youtube.com/watch?v=5uQW9iz0nOI)
 - [LangChain com Microsoft Azure OpenAI – Parte 3](https://www.youtube.com/watch?v=ECac2SR9Tks)
-- [LangChain com Microsoft Azure OpenAI - Parte 2](https://www.youtube.com/watch?v=n5H6YwHhGVo)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

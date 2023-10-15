@@ -58,7 +58,7 @@ Outside of development, Glaucia enjoys learning new languages, meeting different
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Live Coding Especial - Aprendendo Bun e Integrando ao Azure! É possível?!](https://www.youtube.com/watch?v=YHWrxDH11G8)
+- [Live Coding Especial - Aprendendo Bun e Integrando ao Azure! É possível?! &lpar;Parte 01&rpar;](https://www.youtube.com/watch?v=YHWrxDH11G8)
 - [Mulheres Que Inspiram: Aline Calheiros &lpar;DNA Imóveis&rpar;](https://www.youtube.com/watch?v=vHxFeciSmYg)
 - [LangChain com Microsoft Azure OpenAI - Parte 2](https://www.youtube.com/watch?v=n5H6YwHhGVo)
 - [LangChain com Microsoft Azure OpenAI – Parte 1](https://www.youtube.com/watch?v=wp8CloDmwPQ)

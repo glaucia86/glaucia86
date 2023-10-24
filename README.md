@@ -58,11 +58,11 @@ Outside of development, Glaucia enjoys learning new languages, meeting different
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [LangChain com Microsoft Azure OpenAI – Parte 4](https://www.youtube.com/watch?v=6AX4jc1wr5k)
+- [LangChain com Microsoft Azure Open A.I – Parte 5](https://www.youtube.com/watch?v=PlWflTyrZww)
 - [🎯Short Codes: Creating short syntax &#39;constructor&#39; in TypeScript using GitHub Copilot](https://www.youtube.com/watch?v=hcEzxK792nk)
 - [🎯Short Codes: Criando sintaxe curta no construtor em TypeScript com GitHub Copilot](https://www.youtube.com/watch?v=Vnsa3ScUdvw)
 - [LangChain com Microsoft Azure OpenAI – Parte 3](https://www.youtube.com/watch?v=ECac2SR9Tks)
-- [Live Coding Especial - Aprendendo Bun e Integrando ao Azure! É possível?! &lpar;Parte 01&rpar;](https://www.youtube.com/watch?v=YHWrxDH11G8)
-- [Mulheres Que Inspiram: Aline Calheiros &lpar;DNA Imóveis&rpar;](https://www.youtube.com/watch?v=vHxFeciSmYg)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

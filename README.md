@@ -68,11 +68,11 @@ Outside of development, Glaucia enjoys learning new languages, meeting different
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 3&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-3-52o4)
+- [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 2&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-2-1ij1)
+- [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 1&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-1-30f8)
 - [Step by Step Guide: Migrating v3 to v4 programming model for Azure Functions for Node.Js Application](https://dev.to/azure/step-by-step-guide-migrating-v3-to-v4-programming-model-for-azure-functions-for-nodejs-application-dbn)
 - [Sharing my Story: From Public School to the Largest Technology Company in the World](https://dev.to/glaucia86/sharing-my-story-from-public-school-to-the-largest-technology-company-in-the-world-1m2g)
-- [Aplicación de Referencia Empresarial en JavaScript - Contoso Real Estate](https://dev.to/azure/aplicacion-de-referencia-empresarial-en-javascript-contoso-real-estate-63i)
-- [Aplicação de Referência Empresarial em JavaScript - Contoso Real Estate](https://dev.to/azure/aplicacao-de-referencia-empresarial-em-javascript-contoso-real-estate-23ia)
-- [LEARN: Take a Break Reminder App with Next.js and Microsoft Graph](https://dev.to/azure/learn-take-a-break-reminder-app-3gj6)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Let's Keep in Touch and Follow me 

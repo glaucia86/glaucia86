@@ -68,11 +68,11 @@ Outside of development, Glaucia enjoys learning new languages, meeting different
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 03&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-03-2n68)
+- [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 02&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-02-4ngm)
+- [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 01&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-01-5ajh)
 - [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 3&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-3-52o4)
 - [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 2&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-2-1ij1)
-- [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 1&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-1-30f8)
-- [Step by Step Guide: Migrating v3 to v4 programming model for Azure Functions for Node.Js Application](https://dev.to/azure/step-by-step-guide-migrating-v3-to-v4-programming-model-for-azure-functions-for-nodejs-application-dbn)
-- [Sharing my Story: From Public School to the Largest Technology Company in the World](https://dev.to/glaucia86/sharing-my-story-from-public-school-to-the-largest-technology-company-in-the-world-1m2g)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Let's Keep in Touch and Follow me 

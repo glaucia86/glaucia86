@@ -58,11 +58,11 @@ Outside of development, Glaucia enjoys learning new languages, meeting different
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Transmissão ao vivo de Glaucia Lemos](https://www.youtube.com/watch?v=0x7-47euYBo)
 - [LangChain com Microsoft Azure OpenAI – Parte 4](https://www.youtube.com/watch?v=6AX4jc1wr5k)
 - [LangChain com Microsoft Azure Open A.I – Parte 5](https://www.youtube.com/watch?v=PlWflTyrZww)
 - [🎯Short Codes: Creating short syntax &#39;constructor&#39; in TypeScript using GitHub Copilot](https://www.youtube.com/watch?v=hcEzxK792nk)
 - [🎯Short Codes: Criando sintaxe curta no construtor em TypeScript com GitHub Copilot](https://www.youtube.com/watch?v=Vnsa3ScUdvw)
-- [LangChain com Microsoft Azure OpenAI – Parte 3](https://www.youtube.com/watch?v=ECac2SR9Tks)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

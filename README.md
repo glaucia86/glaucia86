@@ -3,15 +3,6 @@
 
 [![Banner-Twitch-Glaucia-Lemos.png](https://i.postimg.cc/L8ZjLxZm/Banner-Twitch-Glaucia-Lemos.png)](https://postimg.cc/ZW49hFcQ)
 
-<p align='center'>
-<a href="https://dev.to/glaucia86"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/glaucia_lemos86"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/glaucialemos/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</br>
-<a href='https://ko-fi.com/I3I644UCW' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</p>
-
-
 ## Bio - Hi, Coders! 👋
 
 Glaucia Lemos is a Developer Advocate in JavaScript and TypeScript at Microsoft and a Software Engineer with over 10 years of development experience in JavaScript, TypeScript, and Node.js (BackEnd), as well as in .NET C#. 

@@ -35,7 +35,6 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" height="25"/>
 <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" height="25"/>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
-<img src="https://img.shields.io/badge/svelte%20-%2320232a.svg?&color=4A4A55&style=for-the-badge&logo=svelte&logoColor=%FF3E00" height="25"/>
 <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>

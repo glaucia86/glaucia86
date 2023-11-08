@@ -52,7 +52,7 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 - [🎯Além do Código: Como Contribuir para Projetos Open Source de Formas Surpreendentes!](https://www.youtube.com/watch?v=aNK4B2deAmI)
 - [Transmissão ao vivo de Glaucia Lemos](https://www.youtube.com/watch?v=0x7-47euYBo)
 - [LangChain com Microsoft Azure OpenAI – Parte 4](https://www.youtube.com/watch?v=6AX4jc1wr5k)
-- [LangChain com Microsoft Azure Open A.I – Parte 5](https://www.youtube.com/watch?v=PlWflTyrZww)
+- [GitHub Universe 2023: O que rolou?!](https://www.youtube.com/watch?v=PlWflTyrZww)
 - [🎯Short Codes: Creating short syntax &#39;constructor&#39; in TypeScript using GitHub Copilot](https://www.youtube.com/watch?v=hcEzxK792nk)
 <!-- YOUTUBE:END -->
 

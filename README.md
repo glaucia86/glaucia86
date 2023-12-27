@@ -47,6 +47,8 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ![glaucia86's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glaucia86&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
+[![Glaucia Lemos profile views](https://u8views.com/api/v1/github/profiles/1631477/views/day-week-month-total-count.svg)](https://u8views.com/github/glaucia86)
+
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [🎯Aumente a sua Produtividade com GitHub Copilot](https://www.youtube.com/watch?v=YSGxHZEwnGY)

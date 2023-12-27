@@ -1,5 +1,6 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=glaucia86%2Fgithub-visitors-badge&countColor=%23263759)](https://visitorbadge.io/status?path=glaucia86%2Fgithub-visitors-badge)
 ![GitHub followers](https://img.shields.io/github/followers/glaucia86?style=social)
+[![Glaucia Lemos profile views](https://u8views.com/api/v1/github/profiles/1631477/views/day-week-month-total-count.svg)](https://u8views.com/github/glaucia86)
 
 [![Banner-Twitch-Glaucia-Lemos.png](https://i.postimg.cc/L8ZjLxZm/Banner-Twitch-Glaucia-Lemos.png)](https://postimg.cc/ZW49hFcQ)
 
@@ -47,7 +48,7 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ![glaucia86's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glaucia86&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
-[![Glaucia Lemos profile views](https://u8views.com/api/v1/github/profiles/1631477/views/day-week-month-total-count.svg)](https://u8views.com/github/glaucia86)
+[![Hits](https://u8views.com/api/v1/github/profiles/1631477/views/day-week-month-total-count.svg)](https://u8views.com/github/glaucia86)
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->

@@ -49,11 +49,11 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Aprendendo Golang ao vivo - Day 01](https://www.youtube.com/watch?v=Mj1fcWyzft4)
 - [🎯Aumente a sua Produtividade com GitHub Copilot](https://www.youtube.com/watch?v=YSGxHZEwnGY)
 - [GitHub Universe 2023: O que rolou?!](https://www.youtube.com/watch?v=PlWflTyrZww)
 - [🎯Além do Código: Como Contribuir para Projetos Open Source de Formas Surpreendentes!](https://www.youtube.com/watch?v=aNK4B2deAmI)
 - [Transmissão ao vivo de Glaucia Lemos](https://www.youtube.com/watch?v=0x7-47euYBo)
-- [LangChain com Microsoft Azure OpenAI – Parte 4](https://www.youtube.com/watch?v=6AX4jc1wr5k)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

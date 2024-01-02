@@ -49,8 +49,8 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Aprendendo Golang ao vivo - Day 02](https://www.youtube.com/watch?v=ikvLp1kV-uE)
-- [Live Coding: Day01 - Aprendendo Golang e integrando ao Azure!](https://www.youtube.com/watch?v=Mj1fcWyzft4)
+- [Live Coding: Day 02 - Aprendendo Golang e integrando ao Azure!](https://www.youtube.com/watch?v=ikvLp1kV-uE)
+- [Live Coding: Day 01 - Aprendendo Golang e integrando ao Azure!](https://www.youtube.com/watch?v=Mj1fcWyzft4)
 - [🎯Aumente a sua Produtividade com GitHub Copilot](https://www.youtube.com/watch?v=YSGxHZEwnGY)
 - [GitHub Universe 2023: O que rolou?!](https://www.youtube.com/watch?v=PlWflTyrZww)
 - [🎯Além do Código: Como Contribuir para Projetos Open Source de Formas Surpreendentes!](https://www.youtube.com/watch?v=aNK4B2deAmI)

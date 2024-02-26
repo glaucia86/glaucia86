@@ -49,11 +49,11 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Workshop: Usando GitHub Copilot para construir um app Node.js com Azure Cosmos DB e App Service](https://www.youtube.com/watch?v=vX2hAaZwjYk)
 - [Fundamentos da IA Generativa](https://www.youtube.com/watch?v=uEsIQiMINuE)
 - [🎯Dica: Cobra-CLI - Crie Aplicações de Prompt Comand com Go &amp; Cobra CLI &amp; dicas para Devs Back-End!](https://www.youtube.com/watch?v=ypWsG5K-fcU)
 - [Live Coding: Day 04 - Aprendendo Golang e integrando ao Azure!](https://www.youtube.com/watch?v=h6yt_LtLIb0)
 - [Live Coding: Day 03 - Aprendendo Golang e integrando ao Azure!](https://www.youtube.com/watch?v=K8T7MMrHpLs)
-- [Live Coding: Day 02 - Aprendendo Golang e integrando ao Azure!](https://www.youtube.com/watch?v=ikvLp1kV-uE)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

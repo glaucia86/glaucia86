@@ -49,11 +49,11 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Cópia de Workshop: Construindo um app LOB com OpenAI, Azure CS e Microsoft Graph Ep3](https://www.youtube.com/watch?v=UBvGcJnlpew)
 - [Workshop: Construindo um app LOB com OpenAI, Azure CS e Microsoft Graph Ep2](https://www.youtube.com/watch?v=HZro0D60JDI)
 - [Participe do Workshop: Criando uma Aplicação LOB + OpenAI](https://www.youtube.com/watch?v=sbYMfgJKeME)
 - [A Importância do networking no mundo do Open Source](https://www.youtube.com/watch?v=Es_u_q9ME7g)
 - [Workshop: Construindo um app LOB com OpenAI, Azure CS e Microsoft Graph](https://www.youtube.com/watch?v=adAX7lTk8cM)
-- [Workshop: Usando GitHub Copilot para construir um app Node.js com Azure Cosmos DB e App Service](https://www.youtube.com/watch?v=acGFVXlHB9Q)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

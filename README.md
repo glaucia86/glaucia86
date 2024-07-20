@@ -49,11 +49,11 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🤖 Curso de IA Generativa para Iniciantes Gratuito! WHAT?! 🔥🔥](https://www.youtube.com/watch?v=rzZpe-lGDwU)
 - [🔥 Learn Cloud with Visual Studio Code Extension!](https://www.youtube.com/watch?v=R_N09FrbYws)
 - [🚀 Discover the Copilot Learning Hub: Your Ultimate Guide to Mastering Microsoft Copilot!](https://www.youtube.com/watch?v=_LoSAg80baE)
 - [Workshop: Construindo um app LOB com OpenAI, Azure CS e Microsoft Graph Ep3](https://www.youtube.com/watch?v=7kFMzm00NPU)
 - [Workshop: Construindo um app LOB com OpenAI, Azure CS e Microsoft Graph Ep2](https://www.youtube.com/watch?v=HZro0D60JDI)
-- [Participe do Workshop: Criando uma Aplicação LOB + OpenAI](https://www.youtube.com/watch?v=sbYMfgJKeME)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

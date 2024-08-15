@@ -49,11 +49,11 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Qual é a diferença entre enum vs const enum em TypeScript? Parte 02](https://www.youtube.com/watch?v=77D5FvhNOOs)
+- [Qual a diferença entre enum vs const enum no TypeScript? 🚀 Parte 01](https://www.youtube.com/watch?v=by8rdA2l-JE)
 - [Full Stack Todo App with React, Azure Static Web Apps and Azure Functions - Parte 01](https://www.youtube.com/watch?v=lzCy6C_rf4c)
 - [🤖 Curso de IA Generativa para Iniciantes Gratuito! WHAT?! 🔥🔥](https://www.youtube.com/watch?v=rzZpe-lGDwU)
 - [🔥 Learn Cloud with Visual Studio Code Extension!](https://www.youtube.com/watch?v=R_N09FrbYws)
-- [🚀 Discover the Copilot Learning Hub: Your Ultimate Guide to Mastering Microsoft Copilot!](https://www.youtube.com/watch?v=_LoSAg80baE)
-- [Workshop: Construindo um app LOB com OpenAI, Azure CS e Microsoft Graph Ep3](https://www.youtube.com/watch?v=7kFMzm00NPU)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

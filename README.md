@@ -59,11 +59,11 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [This Month in Azure Static Web Apps | 08/2024](https://dev.to/azure/this-month-in-azure-static-web-apps-082024-39d)
 - [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 03&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-03-2n68)
 - [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 02&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-02-4ngm)
 - [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 01&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-01-5ajh)
 - [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 3&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-3-52o4)
-- [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 2&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-2-1ij1)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Let's Keep in Touch and Follow me 

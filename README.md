@@ -49,11 +49,11 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Quais livros estarão na sua estante em 2025?](https://www.youtube.com/watch?v=ke_MNTKw10I)
 - [Curso gratuito de Node.js da Microsoft?! 🤔](https://www.youtube.com/watch?v=cKC5NsmbAjY)
 - [Full Stack Todo App with React, Azure Static Web Apps and Azure Functions - Parte 03](https://www.youtube.com/watch?v=KIoi_V3hW08)
 - [Full Stack Todo App with React, Azure Static Web Apps and Azure Functions - Parte 02](https://www.youtube.com/watch?v=a7uZV5DT5Lk)
 - [Full Stack Todo App with React, Azure Static Web Apps and Azure Functions - Parte 01](https://www.youtube.com/watch?v=lzCy6C_rf4c)
-- [Qual é a diferença entre enum vs const enum em TypeScript? Parte 02](https://www.youtube.com/watch?v=77D5FvhNOOs)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

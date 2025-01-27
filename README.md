@@ -49,11 +49,11 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [💡 Você se sente sobrecarregado com tanta informação no dia a dia?](https://www.youtube.com/watch?v=AOgLEKxS-8g)
 - [Quais livros estarão na sua estante em 2025?](https://www.youtube.com/watch?v=ke_MNTKw10I)
 - [Curso gratuito de Node.js da Microsoft?! 🤔](https://www.youtube.com/watch?v=cKC5NsmbAjY)
 - [Full Stack Todo App with React, Azure Static Web Apps and Azure Functions - Parte 03](https://www.youtube.com/watch?v=KIoi_V3hW08)
 - [Full Stack Todo App with React, Azure Static Web Apps and Azure Functions - Parte 02](https://www.youtube.com/watch?v=a7uZV5DT5Lk)
-- [Full Stack Todo App with React, Azure Static Web Apps and Azure Functions - Parte 01](https://www.youtube.com/watch?v=lzCy6C_rf4c)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

@@ -49,11 +49,11 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 Live Coding: Como Levar seu SWA para ACA e Ganhar Mais Escalabilidade! [Parte 01]](https://www.youtube.com/watch?v=AzCETlTwjLA)
+- [🎥 Live Coding: Como Levar seu SWA para ACA e Ganhar Mais Escalabilidade! [Parte 01]](https://www.youtube.com/watch?v=Dc6yl6krKyM)
 - [Use IA de Graça com GitHub Models e TypeScript! Sem pagar APIs ou baixar modelos! 💸💸💸](https://www.youtube.com/watch?v=4Pv1BrdiZDg)
 - [🔥 GitHub Models + TypeScript: IA Fácil, Rápida e 100% Free! &lpar;Sério!&rpar;](https://www.youtube.com/watch?v=_Cyakp5ktak)
 - [💡 Você se sente sobrecarregado com tanta informação no dia a dia?](https://www.youtube.com/watch?v=AOgLEKxS-8g)
-- [Quais livros estarão na sua estante em 2025?](https://www.youtube.com/watch?v=ke_MNTKw10I)
-- [Curso gratuito de Node.js da Microsoft?! 🤔](https://www.youtube.com/watch?v=cKC5NsmbAjY)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

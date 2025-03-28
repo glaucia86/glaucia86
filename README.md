@@ -49,7 +49,7 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [AI Live Coding Series: Aprendendo MCP [Parte 01]](https://www.youtube.com/watch?v=iuZpwUKlAFs)
+- [🚀 AI Live Coding Series | Parte 1: Criando um Servidor MCP com TypeScript](https://www.youtube.com/watch?v=iuZpwUKlAFs)
 - [​Aprenda IA Generativa com JavaScript: Curso Gratuito e Interativo! 💡🤖](https://www.youtube.com/watch?v=LfmtHe4oJm4)
 - [Use IA de Graça com GitHub Models e TypeScript! Sem pagar APIs ou baixar modelos! 💸💸💸](https://www.youtube.com/watch?v=4Pv1BrdiZDg)
 - [🔥 GitHub Models + TypeScript: IA Fácil, Rápida e 100% Free! &lpar;Sério!&rpar;](https://www.youtube.com/watch?v=_Cyakp5ktak)

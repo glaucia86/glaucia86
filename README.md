@@ -49,7 +49,7 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Day 02 - Migrando um Projeto de IA &lpar;Remix → Next.js&rpar; no Azure Container Apps + Terraform](https://www.youtube.com/watch?v=x7sZW6UVj1M)
+- [Day 01: Aprendendo Python – Zero to Hero! 🐍](https://www.youtube.com/watch?v=ueT2buY1Koo)
 - [Day 01 - Migrando um Projeto de IA &lpar;Remix → Next.js&rpar; no Azure Container Apps + Terraform](https://www.youtube.com/watch?v=qgDJ-DQ5wHM)
 - [🚀 AI Live Coding Series | Parte 2: Criando um Servidor MCP com TypeScript](https://www.youtube.com/watch?v=utU_hk5U3jE)
 - [🚀 AI Live Coding Series | Parte 1: Criando um Servidor MCP com TypeScript](https://www.youtube.com/watch?v=iuZpwUKlAFs)

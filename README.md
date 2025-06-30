@@ -49,11 +49,11 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🎥 Learn Live Studies: Aprenda A.I com JavaScript/TypeScript – Episódio 01](https://www.youtube.com/watch?v=_nIGJfcsg-Y)
 - [Day 01: Desvendando A.I. Agents com JavaScript — Comece Aqui! 🤖🚀](https://www.youtube.com/watch?v=yr7-JqFL4aY)
 - [Day 03:🐍 Aprendendo Python – Zero to Hero: Explorando if Statements em Python](https://www.youtube.com/watch?v=-hdhIlanYr8)
 - [Day 02:🐍 Aprendendo Python – Zero to Hero: Trabalhando com Listas em Python!](https://www.youtube.com/watch?v=wZuDVrLXxm4)
 - [Day 01: 🐍 Aprendendo Python – Zero to Hero!](https://www.youtube.com/watch?v=ueT2buY1Koo)
-- [Day 01 - Migrando um Projeto de IA &lpar;Remix → Next.js&rpar; no Azure Container Apps + Terraform](https://www.youtube.com/watch?v=qgDJ-DQ5wHM)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

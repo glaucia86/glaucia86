@@ -49,11 +49,11 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [AI For TypeScript Developers - Zero to Hero | O Jogo Mudou: A Revolução da IA #01](https://www.youtube.com/watch?v=Te87crjqLss)
 - [🚀 AI Live Coding Series | Parte 3: Criando um Servidor MCP com TypeScript](https://www.youtube.com/watch?v=MIqHsE9Sbio)
 - [🎥 Learn Live Studies: Aprendendo sobre Thought-Action-Observation Cycle e criando um Book Agent](https://www.youtube.com/watch?v=DHib0tWCbBY)
 - [🎥 Learn Live Studies: Criando uma AI Agent Calculadora com JavaScript+ Function Calling!](https://www.youtube.com/watch?v=IFuR5JGOVk4)
 - [🎥 Learn Live Studies: Aprenda A.I com JavaScript/TypeScript – Episódio 01](https://www.youtube.com/watch?v=_nIGJfcsg-Y)
-- [Day 01: Desvendando A.I. Agents com JavaScript — Comece Aqui! 🤖🚀](https://www.youtube.com/watch?v=yr7-JqFL4aY)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

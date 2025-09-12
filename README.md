@@ -5,10 +5,13 @@
 
 ## Bio - Hi, Coders! 👋
 
-Glaucia Lemos is a Developer Advocate in JavaScript and TypeScript and A.I at Microsoft and a Software Engineer with over 10 years of development experience in JavaScript, TypeScript, and Node.js (BackEnd), as well as in .NET C#. 
+Glaucia Lemos is a Software Engineer and former Developer Advocate at Microsoft, specializing in JavaScript/TypeScript and Artificial Intelligence. With over a decade of experience in backend development (Node.js, TypeScript, and .NET C#), she is dedicated to empowering developers to build AI-first applications using tools like Azure OpenAI, LangChain.js, and, Azure Container Apps and Azure Static Web Apps.
 
-She has both national and international experience working with small and large companies. Glaucia enjoys making contributions to Open Source projects projects in **[GitHub](https://github.com/glaucia86)**. She has been a Member and Contributor to the Node.js Foundation and the React Community, making contributions to the translations of the **[Nodejs.org](https://nodejs.org/en)** and **[Reactjs.org](https://react.dev/)** websites into Portuguese. She also voluntered and served as a Board Member for the **[WoMakersCode](https://womakerscode.org/)**. 
-She is also a **[Prisma Ambassador](https://www.prisma.io/ambassador)**. 
+She has inspired and educated over 100,000 developers globally through technical content, international workshops, and open-source initiatives. Glaucia led impactful projects such as the Contoso Real Estate modernization—optimizing more than 68,000 lines of code and driving Azure adoption among JavaScript developers.
+
+She is the creator and maintainer of Microblog AI, an open-source project that teaches how to build serverless, production-ready, AI-powered web applications using Remix, LangChain.js, and Azure services. She also contributes to strategic education initiatives like Generative AI for Beginners and has made numerous contributions to key repositories in the Microsoft Azure-Samples organization.
+
+As an active member of the Node.js and React communities, Glaucia has supported localization efforts and continuously advocates for diversity and inclusion in tech. Her mission is to bridge the gap between AI and the JavaScript ecosystem—making innovation accessible, secure, and inclusive for every developer.
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 

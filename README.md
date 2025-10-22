@@ -52,11 +52,11 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [LangChain.js v1 Chegou! Novo createAgent, Middleware e Muito Mais! | Guia Completo da Nova Versão](https://www.youtube.com/watch?v=lRkf2NZWaKo)
 - [Do Zero ao MCP: Criando um Servidor Model Context Protocol com TypeScript e a API do Star Wars](https://www.youtube.com/watch?v=qdIA4sj4q0c)
 - [🚀 Aula 04 – AI For TypeScript Developers - Zero to Hero | Configuração do projeto para o curso](https://www.youtube.com/watch?v=nYIsNKwsOAY)
 - [🚀 Aula 03 – AI For TypeScript Developers - Zero to Hero | Criando API Key Google Gemini](https://www.youtube.com/watch?v=K3edfPiBDjU)
 - [AI For TypeScript Developers - Zero to Hero | Criando API Key OpenAI com GitHub Models #02](https://www.youtube.com/watch?v=OKE9IE5PUCU)
-- [AI For TypeScript Developers - Zero to Hero | O Jogo Mudou: A Revolução da IA #01](https://www.youtube.com/watch?v=Te87crjqLss)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

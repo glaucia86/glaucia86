@@ -62,11 +62,11 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Close Those 20 Browser Tabs: How MCP Servers Bring Documentation into VS Code](https://dev.to/glaucia86/close-those-20-browser-tabs-how-mcp-servers-bring-documentation-into-vs-code-435f)
 - [From Zero to MCP: Building a Model Context Protocol Server with TypeScript and the Star Wars API](https://dev.to/glaucia86/from-zero-to-mcp-building-a-model-context-protocol-server-with-typescript-and-the-star-wars-api-1kdi)
 - [Do Zero ao MCP: Criando um Servidor Model Context Protocol com TypeScript e a API do Star Wars](https://dev.to/glaucia86/do-zero-ao-mcp-criando-um-servidor-model-context-protocol-com-typescript-e-a-api-do-star-wars-26n0)
 - [Building a Production-Ready RAG System: Zero to Hero with TypeScript, Docker, Google Gemini &amp; LangChain.js](https://dev.to/glaucia86/building-a-production-ready-rag-system-zero-to-hero-with-typescript-docker-google-gemini--50nh)
 - [Building a Production-Ready Weather MCP Server with Clean Architecture, Redis Cache, and SOLID Principles | Complete Guide](https://dev.to/glaucia86/building-a-production-ready-weather-mcp-server-with-clean-architecture-redis-cache-and-solid-32cp)
-- [Criando MCP Server de Clima Production-Ready com Clean Architecture, Cache Redis e Princípios SOLID | Guia Completo](https://dev.to/glaucia86/criando-mcp-server-de-clima-production-ready-com-clean-architecture-cache-redis-e-principios-solid-58i3)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Let's Keep in Touch and Follow me 

@@ -62,11 +62,11 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [StackSpot AI: Transforme Seu Fluxo de Desenvolvimento com Agentes Inteligentes](https://dev.to/glaucia86/stackspot-ai-transforme-seu-fluxo-de-desenvolvimento-com-agentes-inteligentes-56lo)
 - [Close Those 20 Browser Tabs: How MCP Servers Bring Documentation into VS Code](https://dev.to/glaucia86/close-those-20-browser-tabs-how-mcp-servers-bring-documentation-into-vs-code-435f)
 - [From Zero to MCP: Building a Model Context Protocol Server with TypeScript and the Star Wars API](https://dev.to/glaucia86/from-zero-to-mcp-building-a-model-context-protocol-server-with-typescript-and-the-star-wars-api-1kdi)
 - [Do Zero ao MCP: Criando um Servidor Model Context Protocol com TypeScript e a API do Star Wars](https://dev.to/glaucia86/do-zero-ao-mcp-criando-um-servidor-model-context-protocol-com-typescript-e-a-api-do-star-wars-26n0)
 - [Building a Production-Ready RAG System: Zero to Hero with TypeScript, Docker, Google Gemini &amp; LangChain.js](https://dev.to/glaucia86/building-a-production-ready-rag-system-zero-to-hero-with-typescript-docker-google-gemini--50nh)
-- [Building a Production-Ready Weather MCP Server with Clean Architecture, Redis Cache, and SOLID Principles | Complete Guide](https://dev.to/glaucia86/building-a-production-ready-weather-mcp-server-with-clean-architecture-redis-cache-and-solid-32cp)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Let's Keep in Touch and Follow me 

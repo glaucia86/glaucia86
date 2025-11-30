@@ -52,11 +52,11 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Live: Criando Features 10x Mais Confiáveis com Spec Kit + GitHub Copilot](https://www.youtube.com/watch?v=A-EwEZkNk-U)
 - [Testando o Google Antigravity + Microsoft Ignite 2025 &amp; Atualizações Quentes do Universo de IA](https://www.youtube.com/watch?v=nSFxEx2iS6U)
 - [Octoverse 2025: Por que o TypeScript virou a linguagem #1 no GitHub &lpar;e o que isso muda pra você&rpar;](https://www.youtube.com/watch?v=p8MPs-LkJa0)
 - [LangChain.js v1 Chegou! Novo createAgent, Middleware e Muito Mais! | Guia Completo da Nova Versão](https://www.youtube.com/watch?v=lRkf2NZWaKo)
 - [Do Zero ao MCP: Criando um Servidor Model Context Protocol com TypeScript e a API do Star Wars](https://www.youtube.com/watch?v=qdIA4sj4q0c)
-- [🚀 Aula 04 – AI For TypeScript Developers - Zero to Hero | Configuração do projeto para o curso](https://www.youtube.com/watch?v=nYIsNKwsOAY)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

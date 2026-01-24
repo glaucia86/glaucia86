@@ -52,11 +52,11 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Copilot SDK na Prática: Criando um Agente de Análise de Repos](https://www.youtube.com/watch?v=6mh_LETKLaU)
 - [🩺 Repo Doctor Demo - Diagnose Your GitHub Repos with AI](https://www.youtube.com/watch?v=Yci-SV3xrv0)
 - [LangChain.js v1 Migration DONE ✅ | RAG com TypeScript usando Spec-Driven Development + Copilot](https://www.youtube.com/watch?v=1MphzgEv6-0)
 - [Migrando uma aplicação LangChain.js com Spec Kit + Visual Studio Code + GitHub Copilot.](https://www.youtube.com/watch?v=yjoRMcmbpu4)
 - [Fim de ano... momento de jogar e relaxar!](https://www.youtube.com/watch?v=c0lxKQW5ZQc)
-- [Testando o Google Antigravity + Microsoft Ignite 2025 &amp; Atualizações Quentes do Universo de IA](https://www.youtube.com/watch?v=nSFxEx2iS6U)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

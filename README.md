@@ -52,11 +52,11 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [A verdadeira guerra da IA é pelo menor custo?](https://www.youtube.com/shorts/Fjr8Fldb5h8)
 - [Graph Engineering? Outro conceito?!](https://www.youtube.com/shorts/PXdrWzHajnY)
 - [Build in Public: Melhorias no Repo Doctor com Copilot CLI + Copilot SDK #02](https://www.youtube.com/watch?v=I_TlmQ1T3Ok)
 - [Build in Public: Melhorias no Repo Doctor com Copilot CLI + Copilot SDK](https://www.youtube.com/watch?v=7FNu1Tdn6kQ)
 - [Copilot SDK na Prática: Criando um Agente de Análise de Repos](https://www.youtube.com/watch?v=6mh_LETKLaU)
-- [🩺 Repo Doctor Demo - Diagnose Your GitHub Repos with AI](https://www.youtube.com/watch?v=Yci-SV3xrv0)
 <!-- YOUTUBE:END -->
 
 ## 📕 Latest Blog Posts

@@ -93,6 +93,7 @@ Tools I use across public projects, learning materials, and engineering work—n
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-181818?style=for-the-badge)
+![Devin](https://img.shields.io/badge/Devin-181818?style=for-the-badge)
 ![GitHub Copilot SDK](https://img.shields.io/badge/GitHub_Copilot_SDK-24292F?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 **Application engineering**
@@ -103,16 +104,27 @@ Tools I use across public projects, learning materials, and engineering work—n
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
 
-**Data, cloud & delivery**
+**Data & retrieval**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Cloud providers & containers**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Testing & delivery**
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## ⭐ GitHub Stats
 

@@ -30,6 +30,8 @@ I'm co-author, with Salim Laimeche, of **[Building Agentic AI Apps with Next.js 
 
 ## AI projects & learning labs
 
+**Explore:** [Applications & RAG](#applications-retrieval--developer-tools) · [MCP & agents](#mcp-integrations--agent-workflows) · [Workshops](#workshops--learning-materials) · [Experiments](#ai-experiments)
+
 A practical map of what I build and share: applications that use AI, tools that connect agents to software, and materials for learning how these systems work. Start with the problem that interests you; each project links to its code and guide.
 
 ### Applications, retrieval & developer tools
@@ -63,6 +65,7 @@ A practical map of what I build and share: applications that use AI, tools that 
 | [LangChain.js v1 Examples](https://github.com/glaucia86/langchainjs-v1-live) | Explore agents, tools, and middleware in focused examples. | TypeScript, LangChain.js, GitHub Models | Live-session examples · [Guide](https://github.com/glaucia86/langchainjs-v1-live/blob/main/README.md) |
 | [LLMs from the Inside](https://github.com/glaucia86/llms-por-dentro) | Explore tokenization, attention, generation, and inference through visual explanations. | HTML, JavaScript; Python build scripts | Episode 1 ready; later episodes planned · [Guide](https://github.com/glaucia86/llms-por-dentro/blob/main/README.md) |
 
+<a id="ai-experiments"></a>
 <details>
 <summary><strong>Experiments & work in progress</strong></summary>
 

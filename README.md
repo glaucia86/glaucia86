@@ -3,21 +3,58 @@
 
 [![Banner-Twitch-Glaucia-Lemos.png](https://i.postimg.cc/L8ZjLxZm/Banner-Twitch-Glaucia-Lemos.png)](https://postimg.cc/ZW49hFcQ)
 
-## Bio - Hi, Coders! 👋
+## Hi, Coders! I'm Glaucia 👋
 
-Glaucia Lemos is a Software Engineer and former Developer Advocate at Microsoft, specializing in JavaScript/TypeScript and Artificial Intelligence. With over a decade of experience in backend development (Node.js, TypeScript, and .NET C#), she is dedicated to empowering developers to build AI-first applications using tools like Azure OpenAI, LangChain.js, and, Azure Container Apps and Azure Static Web Apps.
+**AI Transformation Lead · Software Engineer · Technical Educator**
 
-She has inspired and educated over 100,000 developers globally through technical content, international workshops, and open-source initiatives. Glaucia led impactful projects such as the Contoso Real Estate modernization—optimizing more than 68,000 lines of code and driving Azure adoption among JavaScript developers.
+I'm based in Rio de Janeiro, Brazil. I help teams bring AI into the way they build software—from understanding a product problem to implementing, reviewing, and verifying a change.
 
-She is the creator and maintainer of Microblog AI, an open-source project that teaches how to build serverless, production-ready, AI-powered web applications using Remix, LangChain.js, and Azure services. She also contributes to strategic education initiatives like Generative AI for Beginners and has made numerous contributions to key repositories in the Microsoft Azure-Samples organization.
+My work connects technical leadership with hands-on engineering. I bring more than a decade of experience in software development and developer education, with roots in JavaScript, TypeScript, Node.js, and .NET. Today, I focus on AI-assisted development, agentic applications, and the engineering decisions behind them.
 
-As an active member of the Node.js and React communities, Glaucia has supported localization efforts and continuously advocates for diversity and inclusion in tech. Her mission is to bridge the gap between AI and the JavaScript ecosystem—making innovation accessible, secure, and inclusive for every developer.
+For me, adopting AI is not just choosing a model or generating code faster. It means working across product, design, architecture, engineering, and quality to decide **what to build, what context an agent needs, and how to verify the result**. I care about the trade-offs: quality versus speed, capability versus cost, and automation versus human judgment.
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+## What I'm working on
 
-Currently, Glaucia lives in Rio de Janeiro, Brazil. And her greatest passion is sharing knowledge with everyone!
+- **AI across the development lifecycle:** turning requirements into specifications, small implementation slices, tests, and reviewable changes.
+- **Context and harness engineering:** giving coding agents useful instructions, tools, feedback, and verification—not just longer prompts.
+- **AI applications with JavaScript and TypeScript:** retrieval-augmented generation (RAG), LangChain.js, MCP integrations, and agent-based developer tools.
+- **Practical education:** workshops, technical mentoring, talks, and open-source learning materials that explain the reasoning behind the code.
 
-In her free time, Glaucia loves listening to good music, watching movies or TV series, and exploring new places. She travels to go snorkeling, meet new people, and learn new languages. She enjoys live coding sessions on her YouTube channel and loves sharing knowledge through technical articles, videos, and presentations. Glaucia's primary focus and goal have been the development of applications in JavaScript, Node.js, and TypeScript integrated with Cloud services and AI.
+## Selected projects
+
+These public repositories show different parts of that work. The trade-offs below are questions worth exploring in each project—not claims of benchmarked results.
+
+### [RepoCheckAI](https://github.com/glaucia86/repocheckai)
+
+**Problem:** understanding the health of a GitHub repository and deciding what needs attention first.  
+**Approach:** an AI-powered analyzer built with the GitHub Copilot SDK, with a quick GitHub API scan and a deeper source-analysis mode.  
+**Trade-off to explore:** a bounded scan keeps the investigation focused; deeper analysis brings more context to inspect and validate. AI findings still need engineering judgment.
+
+### [RAG Search Ingestion](https://github.com/glaucia86/rag-search-ingestion-langchainjs-gemini)
+
+**Problem:** answering questions using the contents of PDF documents.  
+**Approach:** TypeScript and LangChain.js for ingestion and retrieval, Gemini for embeddings and generation, and PostgreSQL with pgvector for vector storage.  
+**Trade-off to explore:** chunking and retrieval choices determine what evidence reaches the model. More context is not automatically better context, and a fluent answer is not proof of correctness.
+
+### [Weather MCP Server](https://github.com/glaucia86/weather-mcp-server)
+
+**Problem:** connecting an AI assistant to weather information outside its training data.  
+**Approach:** a TypeScript MCP server with OpenWeatherMap integration, PostgreSQL, Redis, and Docker, organized around Clean Architecture.  
+**Trade-off to explore:** caching can reduce repeated upstream requests, but freshness matters; architectural boundaries help isolate integrations while adding structure to maintain.
+
+### [AI with JavaScript — learning materials](https://github.com/glaucia86/ai-js-course)
+
+**Problem:** making AI application development approachable for JavaScript developers.  
+**Approach:** a structured curriculum that includes Azure OpenAI and speech-to-text with Whisper, from model fundamentals to TypeScript integration.  
+**Trade-off to explore:** a working API call is only the beginning; transcription quality, audio handling, and service constraints also need attention.
+
+## Community & teaching
+
+Sharing knowledge has always been part of my engineering work. My background includes developer advocacy, technical writing, live coding, and contributions to Node.js and React localization efforts.
+
+I create content in Portuguese and English and care about making software engineering and AI more accessible—especially for developers in Brazil. I want people to understand what is happening under the hood, question the output, and build with confidence.
+
+**Interested in a workshop, technical mentoring, or a talk?** Explore [my website](https://glaucialemos.dev) or [connect with me on LinkedIn](https://www.linkedin.com/in/glaucialemos/).
 
 ## 💻 Technologies & Tools
 

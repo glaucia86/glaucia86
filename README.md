@@ -38,6 +38,7 @@ A practical map of what I build and share: applications that use AI, tools that 
 
 | Project | What to explore | Main technologies | Format / resources |
 | --- | --- | --- | --- |
+| [Decisions AI Demos — Alô, TI + Triagem](https://github.com/glaucia86/decisions-ai-demos) | Explore structured decisions, optional voice, and human review in two local demo experiences. | Next.js, TypeScript, OpenAI Live, Decisions API | Local demo; mocked tests, live API not verified · [Guide](https://github.com/glaucia86/decisions-ai-demos/blob/main/README.en.md) |
 | [RepoCheckAI](https://github.com/glaucia86/repocheckai) | AI-assisted repository analysis with prioritized findings. | TypeScript, GitHub Copilot SDK | Developer tool · [Guide](https://github.com/glaucia86/repocheckai/blob/main/README.md) |
 | [PDF RAG Search](https://github.com/glaucia86/rag-search-ingestion-langchainjs-gemini) | Ingest PDFs and answer questions with retrieved document context. | TypeScript, LangChain.js, Gemini, PostgreSQL/pgvector | RAG sample · [Guide](https://github.com/glaucia86/rag-search-ingestion-langchainjs-gemini/blob/main/README.md) |
 | [AI Snippet](https://github.com/glaucia86/ai-snippet) | Text summarization through a full-stack application. | TypeScript, Express, Remix, MongoDB, GitHub Models | AI sample · [Guide](https://github.com/glaucia86/ai-snippet/blob/main/README.md) |

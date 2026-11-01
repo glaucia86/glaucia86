@@ -50,6 +50,8 @@ These public repositories show different parts of that work. The trade-offs belo
 
 ## Community & teaching
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 Sharing knowledge has always been part of my engineering work. My background includes developer advocacy, technical writing, live coding, and contributions to Node.js and React localization efforts.
 
 I create content in Portuguese and English and care about making software engineering and AI more accessible—especially for developers in Brazil. I want people to understand what is happening under the hood, question the output, and build with confidence.

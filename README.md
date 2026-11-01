@@ -7,9 +7,11 @@
 
 **AI Transformation Lead · Software Engineer · Open-source Contributor · Codex Ambassador**
 
-I'm based in Rio de Janeiro, Brazil. I help teams bring AI into the way they build software—from understanding a product problem to implementing, reviewing, and verifying a change.
+I'm an AI Transformation Lead and Software Engineer based in Rio de Janeiro, Brazil. I work across product problems, software architecture, and AI systems—helping teams turn ideas into implementations they can understand, evaluate, and maintain.
 
-My work connects technical leadership with hands-on engineering. I bring more than a decade of experience in software development and developer education, with roots in JavaScript, TypeScript, Node.js, and .NET. Today, I focus on AI-assisted development, agentic applications, and the engineering decisions behind them.
+My work combines hands-on engineering with technical leadership, drawing on more than a decade of software development and developer education. I focus on the decisions behind a solution: how its parts fit together, where AI adds value, and how to verify that the result meets the need.
+
+In my current role at a major Latin American bank, I work across teams and the engineering organization to help deliver AI-enabled initiatives used in production. That means aligning product, architecture, quality assurance, and engineering—not treating AI adoption as an isolated tooling decision.
 
 For me, adopting AI is not just choosing a model or generating code faster. It means working across product, design, architecture, engineering, and quality to decide **what to build, what context an agent needs, and how to verify the result**. I care about the trade-offs: quality versus speed, capability versus cost, and automation versus human judgment.
 
@@ -17,7 +19,7 @@ For me, adopting AI is not just choosing a model or generating code faster. It m
 
 - **AI across the development lifecycle:** turning requirements into specifications, small implementation slices, tests, and reviewable changes.
 - **Context and harness engineering:** giving coding agents useful instructions, tools, feedback, and verification—not just longer prompts.
-- **AI applications with JavaScript and TypeScript:** retrieval-augmented generation (RAG), LangChain.js, MCP integrations, and agent-based developer tools.
+- **AI applications and integrations:** retrieval-augmented generation (RAG), LangChain.js, MCP integrations, and agent-based developer tools.
 - **Practical education:** workshops, technical mentoring, talks, and open-source learning materials that explain the reasoning behind the code.
 
 ## Selected projects
@@ -52,6 +54,7 @@ These public repositories show different parts of that work. The trade-offs belo
 
 Open source is a central part of how I learn, build, and teach. Before my current work in AI transformation, I was a Developer Advocate at Microsoft, working with JavaScript, TypeScript, cloud applications, and AI. That chapter remains part of my engineering background:
 
+- **[Serverless AI Chat with RAG](https://github.com/Azure-Samples/serverless-chat-langchainjs):** contributions to a document-grounded chat sample using LangChain.js, Azure Functions, and Cosmos DB, including [response streaming](https://github.com/Azure-Samples/serverless-chat-langchainjs/commit/12b6e137bb835d2e4fc5147b115d1b783827e79a) and [step-by-step learning materials](https://github.com/Azure-Samples/serverless-chat-langchainjs/commit/0af3f35c9e6e378229867d62c248fa2a1645de0b). A practical setting for exploring local inference with Ollama versus managed Azure services, retrieval quality, and deployment complexity.
 - **[Microblog AI](https://github.com/Azure-Samples/microblog-ai-remix):** my work on an AI-assisted microblogging sample with Remix and Azure OpenAI, including [migration work from Static Web Apps to Container Apps](https://github.com/Azure-Samples/microblog-ai-remix/commit/551544ae13e5b1e5208ff95098ccb4d4f2a174c3). A useful example for discussing rendering, hosting, and deployment choices—not just calling a model.
 - **[Contoso Real Estate](https://github.com/Azure-Samples/contoso-real-estate):** contributions to a composable JavaScript reference application, alongside [live sessions explaining the project and open-source contribution](https://developer.microsoft.com/en-us/reactor/events/20288/). **Now archived:** included here as part of my contribution history, not as an actively maintained deployment template.
 - **[Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners):** contributions to open learning material, including [function-calling examples](https://github.com/microsoft/generative-ai-for-beginners/commit/6cb707f35bbfe2317e7580e0f67339bdea3adf85).

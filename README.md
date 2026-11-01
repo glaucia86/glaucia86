@@ -28,33 +28,57 @@ I'm co-author, with Salim Laimeche, of **[Building Agentic AI Apps with Next.js 
 - **AI applications and integrations:** retrieval-augmented generation (RAG), LangChain.js, MCP integrations, and agent-based developer tools.
 - **Practical education:** workshops, technical mentoring, talks, and open-source learning materials that explain the reasoning behind the code.
 
-## Selected projects
+## AI projects & learning labs
 
-These public repositories show different parts of that work. The trade-offs below are questions worth exploring in each project—not claims of benchmarked results.
+A practical map of what I build and share: applications that use AI, tools that connect agents to software, and materials for learning how these systems work. Start with the problem that interests you; each project links to its code and guide.
 
-### [RepoCheckAI](https://github.com/glaucia86/repocheckai)
+### Applications, retrieval & developer tools
 
-**Problem:** understanding the health of a GitHub repository and deciding what needs attention first.  
-**Approach:** an AI-powered analyzer built with the GitHub Copilot SDK, with a quick GitHub API scan and a deeper source-analysis mode.  
-**Trade-off to explore:** a bounded scan keeps the investigation focused; deeper analysis brings more context to inspect and validate. AI findings still need engineering judgment.
+| Project | What to explore | Main technologies | Format / resources |
+| --- | --- | --- | --- |
+| [RepoCheckAI](https://github.com/glaucia86/repocheckai) | AI-assisted repository analysis with prioritized findings. | TypeScript, GitHub Copilot SDK | Developer tool · [Guide](https://github.com/glaucia86/repocheckai/blob/main/README.md) |
+| [PDF RAG Search](https://github.com/glaucia86/rag-search-ingestion-langchainjs-gemini) | Ingest PDFs and answer questions with retrieved document context. | TypeScript, LangChain.js, Gemini, PostgreSQL/pgvector | RAG sample · [Guide](https://github.com/glaucia86/rag-search-ingestion-langchainjs-gemini/blob/main/README.md) |
+| [AI Snippet](https://github.com/glaucia86/ai-snippet) | Text summarization through a full-stack application. | TypeScript, Express, Remix, MongoDB, GitHub Models | AI sample · [Guide](https://github.com/glaucia86/ai-snippet/blob/main/README.md) |
+| [Microblog AI — Next.js](https://github.com/glaucia86/microblog-ai-nextjs) | Generate microblog content while exploring a full-stack AI workflow. | Next.js, TypeScript, LangChain.js, GitHub Models | Workshop + sample · [Guide](https://github.com/glaucia86/microblog-ai-nextjs/blob/main/README.md) |
+| [Spam AI Detector](https://github.com/glaucia86/spam-ai-detector) | Compare structured and multi-step spam classification. | Next.js, LangChain.js, GitHub Models, Zod | Classification sample · [Guide](https://github.com/glaucia86/spam-ai-detector/blob/main/README.md) |
 
-### [RAG Search Ingestion](https://github.com/glaucia86/rag-search-ingestion-langchainjs-gemini)
+### MCP integrations & agent workflows
 
-**Problem:** answering questions using the contents of PDF documents.  
-**Approach:** TypeScript and LangChain.js for ingestion and retrieval, Gemini for embeddings and generation, and PostgreSQL with pgvector for vector storage.  
-**Trade-off to explore:** chunking and retrieval choices determine what evidence reaches the model. More context is not automatically better context, and a fluent answer is not proof of correctness.
+| Project | What to explore | Main technologies | Format / resources |
+| --- | --- | --- | --- |
+| [Weather MCP Server](https://github.com/glaucia86/weather-mcp-server) | Expose weather queries to an AI assistant through MCP. | TypeScript, MCP, OpenWeatherMap, PostgreSQL, Redis | Integration sample · [Guide](https://github.com/glaucia86/weather-mcp-server/blob/main/README.md) |
+| [Star Wars MCP Server](https://github.com/glaucia86/swapi-mcp-server-app) | Connect an assistant to characters, planets, and films from SWAPI. | TypeScript, MCP SDK, Zod, SWAPI | MCP tutorial · [Guide](https://github.com/glaucia86/swapi-mcp-server-app/blob/main/README.md) |
+| [Todo List MCP Server](https://github.com/glaucia86/todo-list-mcp-server) | Manage tasks through MCP tools with runtime validation. | TypeScript, MCP SDK, Zod | MCP tutorial · [Guide](https://github.com/glaucia86/todo-list-mcp-server/blob/main/README.md) |
+| [LangGraph Email Workflow](https://github.com/glaucia86/langgraphjs-app-sample) | Classify an email and route it toward a response draft. | TypeScript, LangGraph.js, LangChain.js, Express | Agent workflow tutorial · [Guide](https://github.com/glaucia86/langgraphjs-app-sample/blob/main/README.md) |
+| [Calculator Agent](https://github.com/glaucia86/calculator-ai-agent-sample) | Understand a small function-calling loop with calculator tools. | TypeScript, OpenAI SDK, GitHub Models | Introductory sample · [Guide](https://github.com/glaucia86/calculator-ai-agent-sample/blob/main/README.md) |
 
-### [Weather MCP Server](https://github.com/glaucia86/weather-mcp-server)
+### Workshops & learning materials
 
-**Problem:** connecting an AI assistant to weather information outside its training data.  
-**Approach:** a TypeScript MCP server with OpenWeatherMap integration, PostgreSQL, Redis, and Docker, organized around Clean Architecture.  
-**Trade-off to explore:** caching can reduce repeated upstream requests, but freshness matters; architectural boundaries help isolate integrations while adding structure to maintain.
+| Project | What to explore | Main technologies | Format / resources |
+| --- | --- | --- | --- |
+| [OpenAI Voice Labs](https://github.com/glaucia86/openai-voice-playground) | Build text-to-speech and realtime voice experiences with explicit security boundaries. | Next.js, OpenAI SDK, Agents SDK, WebRTC | Voice workshops · [Guide](https://github.com/glaucia86/openai-voice-playground/blob/main/README.md) |
+| [AI with JavaScript](https://github.com/glaucia86/ai-js-course) | Study AI application development, including speech-to-text with Whisper. | JavaScript/TypeScript, Azure OpenAI, Whisper | Learning curriculum · [Guide](https://github.com/glaucia86/ai-js-course/blob/main/README.md) |
+| [From PRD to PR with Codex](https://github.com/glaucia86/codex-ai-pdlc-workshop) | Evolve the Nexo starter using specifications, context, tests, and review. | Next.js, React, TypeScript, Codex | AI PDLC workshop · [Guide](https://github.com/glaucia86/codex-ai-pdlc-workshop/blob/main/README.md) |
+| [DevDay Exchange — Rio](https://github.com/glaucia86/devday-exchange-community-rio-2026) | Reproduce community demos and guided labs for AI development workflows. | Codex, Dots, Decisions API, TypeScript | Event labs · [Guide](https://github.com/glaucia86/devday-exchange-community-rio-2026/blob/main/README.md) |
+| [LangChain.js v1 Examples](https://github.com/glaucia86/langchainjs-v1-live) | Explore agents, tools, and middleware in focused examples. | TypeScript, LangChain.js, GitHub Models | Live-session examples · [Guide](https://github.com/glaucia86/langchainjs-v1-live/blob/main/README.md) |
+| [LLMs from the Inside](https://github.com/glaucia86/llms-por-dentro) | Explore tokenization, attention, generation, and inference through visual explanations. | HTML, JavaScript; Python build scripts | Episode 1 ready; later episodes planned · [Guide](https://github.com/glaucia86/llms-por-dentro/blob/main/README.md) |
 
-### [AI with JavaScript — learning materials](https://github.com/glaucia86/ai-js-course)
+<details>
+<summary><strong>Experiments & work in progress</strong></summary>
 
-**Problem:** making AI application development approachable for JavaScript developers.  
-**Approach:** a structured curriculum that includes Azure OpenAI and speech-to-text with Whisper, from model fundamentals to TypeScript integration.  
-**Trade-off to explore:** a working API call is only the beginning; transcription quality, audio handling, and service constraints also need attention.
+These projects make their current boundaries explicit. Experimental results are not general performance guarantees, and planned capabilities are not completed features.
+
+| Project | What to explore | Main technologies | Format / resources |
+| --- | --- | --- | --- |
+| [KnowHub](https://github.com/glaucia86/knowhub) | Build a local-first knowledge manager; semantic retrieval and AI Q&A remain in progress. | TypeScript, NestJS, SQLite, Ollama integration | In development · [Guide](https://github.com/glaucia86/knowhub/blob/main/README.md) |
+| [Coding Agent Context Experiments](https://github.com/glaucia86/coding-agent-context-experiments) | Compare context-management workflows with explicit protocols and recorded observations. | Coding agents, context manifests, handoffs | Exploratory research · [Guide](https://github.com/glaucia86/coding-agent-context-experiments/blob/main/README.md) |
+| [Memory Outside the Chat](https://github.com/glaucia86/grok-bots-handoff-lab) | Explore short handoffs and source-linked registries for long AI conversations. | Python scripts, OpenAI API | Draft tutorial; preliminary evidence · [Guide](https://github.com/glaucia86/grok-bots-handoff-lab/blob/main/README.md) |
+| [Local Semantic Search](https://github.com/glaucia86/hnsw-gemini-langchainjs) | Experiment with Gemini embeddings and a local vector index. | TypeScript, LangChain.js, Gemini, Vectra | Search sample · [Guide](https://github.com/glaucia86/hnsw-gemini-langchainjs/blob/main/README.md) |
+| [Python AI API](https://github.com/glaucia86/fullstack-ai-python-app) | Explore text-generation and chat endpoints with GitHub Models. | Python, FastAPI, OpenAI SDK, Pydantic | Backend prototype · [Guide](https://github.com/glaucia86/fullstack-ai-python-app/blob/main/README.md) |
+
+</details>
+
+The guides document setup, credentials, and project-specific limits. These are samples, tools, workshops, and experiments—not a blanket claim of production readiness or a guarantee that every hosted demo is running.
 
 ## Open source & my Microsoft chapter
 
@@ -113,10 +137,12 @@ Tools I use across public projects, learning materials, and engineering work—n
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge)
 
 **Cloud providers & containers**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 

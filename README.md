@@ -5,7 +5,7 @@
 
 ## Hi, Coders! I'm Glaucia 👋
 
-**AI Transformation Lead · Software Engineer · Technical Educator**
+**AI Transformation Lead · Software Engineer · Open-source Contributor · Codex Ambassador**
 
 I'm based in Rio de Janeiro, Brazil. I help teams bring AI into the way they build software—from understanding a product problem to implementing, reviewing, and verifying a change.
 
@@ -48,38 +48,60 @@ These public repositories show different parts of that work. The trade-offs belo
 **Approach:** a structured curriculum that includes Azure OpenAI and speech-to-text with Whisper, from model fundamentals to TypeScript integration.  
 **Trade-off to explore:** a working API call is only the beginning; transcription quality, audio handling, and service constraints also need attention.
 
-## Community & teaching
+## Open source & my Microsoft chapter
+
+Open source is a central part of how I learn, build, and teach. Before my current work in AI transformation, I was a Developer Advocate at Microsoft, working with JavaScript, TypeScript, cloud applications, and AI. That chapter remains part of my engineering background:
+
+- **[Microblog AI](https://github.com/Azure-Samples/microblog-ai-remix):** my work on an AI-assisted microblogging sample with Remix and Azure OpenAI, including [migration work from Static Web Apps to Container Apps](https://github.com/Azure-Samples/microblog-ai-remix/commit/551544ae13e5b1e5208ff95098ccb4d4f2a174c3). A useful example for discussing rendering, hosting, and deployment choices—not just calling a model.
+- **[Contoso Real Estate](https://github.com/Azure-Samples/contoso-real-estate):** contributions to a composable JavaScript reference application, alongside [live sessions explaining the project and open-source contribution](https://developer.microsoft.com/en-us/reactor/events/20288/). **Now archived:** included here as part of my contribution history, not as an actively maintained deployment template.
+- **[Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners):** contributions to open learning material, including [function-calling examples](https://github.com/microsoft/generative-ai-for-beginners/commit/6cb707f35bbfe2317e7580e0f67339bdea3adf85).
+
+My community background also includes Node.js and React localization, technical writing, and live coding. I care about making technical knowledge accessible and helping more people take part in open source.
+
+## Community, workshops & teaching
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Sharing knowledge has always been part of my engineering work. My background includes developer advocacy, technical writing, live coding, and contributions to Node.js and React localization efforts.
+I'm a **[Codex Ambassador](https://developers.openai.com/community/codex-ambassadors/directory)** based in Rio de Janeiro. I organize workshops and meetups that bring the local software and AI communities together to learn, build, and exchange practical experiences.
 
-I create content in Portuguese and English and care about making software engineering and AI more accessible—especially for developers in Brazil. I want people to understand what is happening under the hood, question the output, and build with confidence.
+Recent examples include the **[Codex Community Meetup — Rio de Janeiro](https://luma.com/4hudcuqo)** and **[DevDay Exchange Community — Rio de Janeiro](https://luma.com/wzk8q92k)**. I also share [hands-on event materials](https://github.com/glaucia86/devday-exchange-community-rio-2026) so that learning can continue after the meetup.
+
+I create content in Portuguese and English. Whether I'm teaching TypeScript, exploring RAG, or working through a change with a coding agent, I want people to understand what is happening under the hood, question the output, and build with confidence.
 
 **Interested in a workshop, technical mentoring, or a talk?** Explore [my website](https://glaucialemos.dev) or [connect with me on LinkedIn](https://www.linkedin.com/in/glaucialemos/).
 
 ## 💻 Technologies & Tools
 
-<p align="center">
+Tools I use across public projects, learning materials, and engineering work—not a list of certifications.
 
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" height="25"/>
-<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" height="25"/>
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
-<img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/dotnet-net%23239120.svg?color=5C2D91&style=for-the-badge&logo=.net&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" height="25"/>
-<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>
+**AI applications & developer tooling**
 
-</p>
+![LangChain.js](https://img.shields.io/badge/LangChain.js-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-181818?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-181818?style=for-the-badge)
+![GitHub Copilot SDK](https://img.shields.io/badge/GitHub_Copilot_SDK-24292F?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
+**Application engineering**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Data, cloud & delivery**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
 
 ## ⭐ GitHub Stats
 

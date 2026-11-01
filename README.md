@@ -5,7 +5,7 @@
 
 ## Hi, Coders! I'm Glaucia 👋
 
-**AI Transformation Lead · Software Engineer · Open-source Contributor · Codex Ambassador**
+**AI Transformation Lead · Software Engineer · Open-source Contributor · Microsoft MVP · Codex Ambassador · Devin Ambassador**
 
 I'm an AI Transformation Lead and Software Engineer based in Rio de Janeiro, Brazil. I work across product problems, software architecture, and AI systems—helping teams turn ideas into implementations they can understand, evaluate, and maintain.
 
@@ -14,6 +14,12 @@ My work combines hands-on engineering with technical leadership, drawing on more
 In my current role at a major Latin American bank, I work across teams and the engineering organization to help deliver AI-enabled initiatives used in production. That means aligning product, architecture, quality assurance, and engineering—not treating AI adoption as an isolated tooling decision.
 
 For me, adopting AI is not just choosing a model or generating code faster. It means working across product, design, architecture, engineering, and quality to decide **what to build, what context an agent needs, and how to verify the result**. I care about the trade-offs: quality versus speed, capability versus cost, and automation versus human judgment.
+
+## Book
+
+I'm co-author, with Salim Laimeche, of **[Building Agentic AI Apps with Next.js and TypeScript](https://www.packtpub.com/en-us/product/building-agentic-ai-apps-with-nextjs-and-typescript-9781806700936)**, forthcoming from Packt. The book explores RAG, MCP, context engineering, and multi-agent workflows in full-stack AI applications.
+
+**Available for pre-order.** See Packt's listing for the current publication schedule.
 
 ## What I'm working on
 
@@ -65,7 +71,7 @@ My community background also includes Node.js and React localization, technical 
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-I'm a **[Codex Ambassador](https://developers.openai.com/community/codex-ambassadors/directory)** based in Rio de Janeiro. I organize workshops and meetups that bring the local software and AI communities together to learn, build, and exchange practical experiences.
+I'm a **Microsoft MVP**, **[Codex Ambassador](https://developers.openai.com/community/codex-ambassadors/directory)**, and **Devin Ambassador** based in Rio de Janeiro. I organize workshops and meetups that bring the local software and AI communities together to learn, build, and exchange practical experiences.
 
 Recent examples include the **[Codex Community Meetup — Rio de Janeiro](https://luma.com/4hudcuqo)** and **[DevDay Exchange Community — Rio de Janeiro](https://luma.com/wzk8q92k)**. I also share [hands-on event materials](https://github.com/glaucia86/devday-exchange-community-rio-2026) so that learning can continue after the meetup.
 
@@ -80,7 +86,9 @@ Tools I use across public projects, learning materials, and engineering work—n
 **AI applications & developer tooling**
 
 ![LangChain.js](https://img.shields.io/badge/LangChain.js-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-181818?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
@@ -133,12 +141,12 @@ Tools I use across public projects, learning materials, and engineering work—n
 - [From Zero to MCP: Building a Model Context Protocol Server with TypeScript and the Star Wars API](https://dev.to/glaucia86/from-zero-to-mcp-building-a-model-context-protocol-server-with-typescript-and-the-star-wars-api-1kdi)
 <!-- BLOG-POST-LIST:END -->
 
-## 🎯 Let's Keep in Touch and Follow me 
+## 🎯 Let's Keep in Touch
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/glaucia_lemos86)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glaucialemos/)
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/glaucia.lemos.1029)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/glaucialemos/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/glaucia_lemos86)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/glaucia.lemos.dev/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/l32759)
 
 ## 🔴 I do some Live Codings! So follow me also on...
 

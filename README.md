@@ -1,17 +1,15 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=glaucia86%2Fgithub-visitors-badge&countColor=%23263759)](https://visitorbadge.io/status?path=glaucia86%2Fgithub-visitors-badge)
 ![GitHub followers](https://img.shields.io/github/followers/glaucia86?style=social)
 
-[![Glaucia Lemos — AI Transformation Lead and Principal Software Engineer](assets/glaucia-lemos-banner.png)](https://glaucialemos.dev)
+[![Glaucia Lemos — Principal Software Engineer | AI Engineering](assets/glaucia-lemos-banner.png)](https://glaucialemos.dev)
 
 ## Hi, Coders! I'm Glaucia 👋
 
-**AI Transformation Lead · Software Engineer · Open-source Contributor · Microsoft MVP · Codex Ambassador · Devin Ambassador**
+**Principal Software Engineer · AI Engineering · Open-source Contributor · Microsoft MVP · Codex Ambassador · Devin Ambassador**
 
-I'm an AI Transformation Lead and Software Engineer based in Rio de Janeiro, Brazil. I work across product problems, software architecture, and AI systems—helping teams turn ideas into implementations they can understand, evaluate, and maintain.
+I'm a Principal Software Engineer based in Rio de Janeiro, Brazil, focused on AI engineering. I work across product problems, software architecture, and AI systems—helping teams turn ideas into implementations they can understand, evaluate, and maintain.
 
 My work combines hands-on engineering with technical leadership, drawing on more than a decade of software development and developer education. I focus on the decisions behind a solution: how its parts fit together, where AI adds value, and how to verify that the result meets the need.
-
-In my current role at a major Latin American bank, I work across teams and the engineering organization to help deliver AI-enabled initiatives used in production. That means aligning product, architecture, quality assurance, and engineering—not treating AI adoption as an isolated tooling decision.
 
 For me, adopting AI is not just choosing a model or generating code faster. It means working across product, design, architecture, engineering, and quality to decide **what to build, what context an agent needs, and how to verify the result**. I care about the trade-offs: quality versus speed, capability versus cost, and automation versus human judgment.
 
@@ -38,7 +36,7 @@ A practical map of what I build and share: applications that use AI, tools that 
 
 | Project | What to explore | Main technologies | Format / resources |
 | --- | --- | --- | --- |
-| [Decisions AI Demos — Alô, TI + Triagem](https://github.com/glaucia86/decisions-ai-demos) | Explore structured decisions, optional voice, and human review in two local demo experiences. | Next.js, TypeScript, OpenAI Live, Decisions API | Local demo; mocked tests, live API not verified · [Guide](https://github.com/glaucia86/decisions-ai-demos/blob/main/README.en.md) |
+| [Decisions AI Demos — Alô, TI + Triagem](https://github.com/glaucia86/decisions-ai-demos) | Explore structured decisions, optional voice, and human review in two local demo experiences. | Next.js, TypeScript, OpenAI Live, Decisions API | Local demo; mocked tests, live API not verified · [Guide](https://github.com/glaucia86/decisions-ai-demos/blob/main/README.en.md) · Tutorial: [EN](https://glaucialemos.hashnode.dev/from-voice-to-a-support-board-building-a-triage-application-with-gpt-live-the-decisions-api-and-typescript) / [PT-BR](https://glaucialemos.hashnode.dev/da-voz-ao-quadro-de-suporte-construindo-uma-aplica-o-de-triagem-com-gpt-live-decisions-api-e-typescript) |
 | [RepoCheckAI](https://github.com/glaucia86/repocheckai) | AI-assisted repository analysis with prioritized findings. | TypeScript, GitHub Copilot SDK | Developer tool · [Guide](https://github.com/glaucia86/repocheckai/blob/main/README.md) |
 | [PDF RAG Search](https://github.com/glaucia86/rag-search-ingestion-langchainjs-gemini) | Ingest PDFs and answer questions with retrieved document context. | TypeScript, LangChain.js, Gemini, PostgreSQL/pgvector | RAG sample · [Guide](https://github.com/glaucia86/rag-search-ingestion-langchainjs-gemini/blob/main/README.md) |
 | [AI Snippet](https://github.com/glaucia86/ai-snippet) | Text summarization through a full-stack application. | TypeScript, Express, Remix, MongoDB, GitHub Models | AI sample · [Guide](https://github.com/glaucia86/ai-snippet/blob/main/README.md) |
@@ -86,7 +84,7 @@ The guides document setup, credentials, and project-specific limits. These are s
 
 ## Open source & my Microsoft chapter
 
-Open source is a central part of how I learn, build, and teach. Before my current work in AI transformation, I was a Developer Advocate at Microsoft, working with JavaScript, TypeScript, cloud applications, and AI. That chapter remains part of my engineering background:
+Open source is a central part of how I learn, build, and teach. Earlier in my career, I was a Developer Advocate at Microsoft, working with JavaScript, TypeScript, cloud applications, and AI. That chapter remains part of my engineering background:
 
 - **[Serverless AI Chat with RAG](https://github.com/Azure-Samples/serverless-chat-langchainjs):** contributions to a document-grounded chat sample using LangChain.js, Azure Functions, and Cosmos DB, including [response streaming](https://github.com/Azure-Samples/serverless-chat-langchainjs/commit/12b6e137bb835d2e4fc5147b115d1b783827e79a) and [step-by-step learning materials](https://github.com/Azure-Samples/serverless-chat-langchainjs/commit/0af3f35c9e6e378229867d62c248fa2a1645de0b). A practical setting for exploring local inference with Ollama versus managed Azure services, retrieval quality, and deployment complexity.
 - **[Microblog AI](https://github.com/Azure-Samples/microblog-ai-remix):** my work on an AI-assisted microblogging sample with Remix and Azure OpenAI, including [migration work from Static Web Apps to Container Apps](https://github.com/Azure-Samples/microblog-ai-remix/commit/551544ae13e5b1e5208ff95098ccb4d4f2a174c3). A useful example for discussing rendering, hosting, and deployment choices—not just calling a model.

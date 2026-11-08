@@ -1,13 +1,13 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=glaucia86%2Fgithub-visitors-badge&countColor=%23263759)](https://visitorbadge.io/status?path=glaucia86%2Fgithub-visitors-badge)
 ![GitHub followers](https://img.shields.io/github/followers/glaucia86?style=social)
 
-[![Glaucia Lemos — Principal Software Engineer | AI & Developer Education](assets/glaucia-lemos-banner.png)](https://glaucialemos.dev)
+[![Glaucia Lemos — Principal Software Engineer | AI Engineering](assets/glaucia-lemos-banner.png)](https://glaucialemos.dev)
 
 ## Hi, Coders! I'm Glaucia 👋
 
-**Principal Software Engineer · AI & Developer Education · Open-source Contributor · Microsoft MVP · Codex Ambassador · Devin Ambassador**
+**Principal Software Engineer · AI Engineering · Open-source Contributor · Microsoft MVP · Codex Ambassador · Devin Ambassador**
 
-I'm a Principal Software Engineer based in Rio de Janeiro, Brazil. I work across product problems, software architecture, and AI systems—helping teams turn ideas into implementations they can understand, evaluate, and maintain.
+I'm a Principal Software Engineer based in Rio de Janeiro, Brazil, focused on AI engineering. I work across product problems, software architecture, and AI systems—helping teams turn ideas into implementations they can understand, evaluate, and maintain.
 
 My work combines hands-on engineering with technical leadership, drawing on more than a decade of software development and developer education. I focus on the decisions behind a solution: how its parts fit together, where AI adds value, and how to verify that the result meets the need.
 
